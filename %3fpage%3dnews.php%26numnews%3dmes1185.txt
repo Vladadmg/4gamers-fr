@@ -1,0 +1,466 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>4Gamers -> Le site: 100% Jeux, 100% Gamers</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Voici LE site des fans de jeux videos tous supports, vous y trouverez les dernieres infos, des dossiers, tests, previews, forum et plein de surprises">
+<meta name="keywords" content="consoles, jeux, video, nintendo, sony, pc, doom, halflife, e3, micromania, show, fps, microsoft, emulation, nostalgie, gamecube, playstation, xbox, ngc, gameboy, ps, ps2, psone, forum, test, preview, mario, zelda, gt, link, project64, n64, psone, ff, tekken, pc, dead or alive, game, 4gamers">
+<meta name="author" content="CedFlow">
+<meta name="identifier-url" content="http://www.4gamers-fr.com">
+<meta name="reply-to" content="4gamers@4gamers-fr.com">
+<meta name="revisit-after" content=7 days">
+<meta name="robots" content="index, follow">
+<meta name="distribution" content="global">
+<meta name="copyright" content="4gamers-2003">
+<meta name="abstract" content="Voici LE site des fans de jeux videos tous supports, vous y trouverez les dernieres infos, des dossiers, tests, previews, forum et plein de surprises">
+
+<STYLE TYPE="text/css">
+body {
+scrollbar-face-color: #88B6DB;
+scrollbar-shadow-color: #C8DDEE;
+scrollbar-highlight-color: #59748D;
+scrollbar-3dlight-color: #D1D7DC;
+scrollbar-darkshadow-color: #88B6DB;
+scrollbar-track-color: #C8DDEE;
+scrollbar-arrow-color: #FFFFFF;}
+
+<!--A:link {text-decoration: none; color: #999999; }-->
+<!--A:visited {text-decoration: none; color: #999999; }-->
+<!--A:active {text-decoration: none; color: #999999; }-->
+<!--A:hover {text-decoration: none; color: #CCCCCC; }-->
+
+<!--A.lien:link {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:visited {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:active {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien{font-family:Arial ; font-size="10pt";font-weight:bold;}-->
+
+<!--A.lien2:link {text-decoration: none; color: #999999; }-->
+<!--A.lien2:visited {text-decoration: none; color: #999999; }-->
+<!--A.lien2:active {text-decoration: none; color: #999999; }-->
+<!--A.lien2:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien2 {font-family: Arial; font-size="10pt";font-weight:bold; }-->
+
+<!--A.lien3:link {text-decoration: none; color: #999999; }-->
+<!--A.lien3:visited {text-decoration: none; color: #999999; }-->
+<!--A.lien3:active {text-decoration: none; color: #999999; }-->
+<!--A.lien3:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien{font-family:Arial ; font-size="10pt"; }
+.Style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.Style2 {font-size: x-small}
+.Style3 {font-size: xx-small}
+-->
+</STYLE>
+
+</head>
+<body bgcolor="#88B6DB">
+<div align="center">
+  <table width="900" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img src="design/titre/titre.gif" width="900" height="120"></td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="171" height="25" valign="top" background="design/BarreH.gif" bgcolor="#FFFFFF"><div align="left"><img src="design/AngleHG.gif" width="170" height="25"></div></td>
+      <td height="25" valign="top" background="design/BarreH.gif"><div align="left" class="lien"><span class="Style2"></span><strong>[ </strong><a href="?page=ngc.php&titre_site=Nintendo%20Gamecube&consoles=ngc" class="lien">NGC</a><strong> | </strong><a href="?page=ps2.php&titre_site=Sony%20PS2&consoles=ps2" class="lien">PS2</a><strong> | </strong><a href="?page=xbox.php&titre_site=Microsoft%20Xbox&consoles=xbox" class="lien">XBox</a><strong> | </strong><a href="?page=portables.php&titre_site=Portables" class="lien">Portables</a><strong> | </strong><a href="?page=pc.php&titre_site=PC" class="lien">PC </a><strong>| <a href="?page=autres.php&titre_site=Emulation,%20Nostalgie%20et%20Autres..." class="lien">Autres</a> || </strong><a href="http://www.4gamers-fr.com/forum/" target="_blank" class="lien">Forum</a><strong> | </strong><a href="?page=chat.php&titre_site=Venez%20chatter%20sur%204Gamers-fr" class="lien">Chat </a><strong>]</strong><span class="Style2"></span></div></td>
+      <td height="25" valign="top" background="design/BarreH.gif"><div align="right">
+          <div style="font-family:Verdana; font-size=10pt;font-weight:bold;">
+            <font size="-2" face="Arial, Helvetica, sans-serif">
+			Vendredi 16 Juillet 2004</font>
+          </div>
+      </div></td>
+      <td width="171" height="25" align="right" valign="top" background="design/BarreH.gif" bgcolor="#FFFFFF">
+        <div align="right"><img src="design/AngleHD.gif" width="170" height="25"></div></td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="30" align="center" valign="top" background="design/BarreG.gif"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="30" align="center"><p><br>
+                  <a href="javascript:window.external.addfavorite('http://www.4gamers-fr.com', '4Gamers -> Le site: 100% Jeux, 100% Gamers')"><img src="design/favoris.gif" alt="Ajouter 4Gamers-fr aux favoris..." width="20" height="20" border="0"></a><a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.4gamers-fr.com');"><img src="design/home.gif" alt="D&eacute;finir 4Gamers-fr comme page d'accueil..." width="20" height="20" border="0"></a><a href="#" OnClick="javascript:window.print()"><img src="design/imprimante.gif" alt="Imprimer cette page..." width="20" height="20" border="0"></a><br>
+                  <br>
+            </p></td>
+          </tr>
+          <tr>
+            <td width="30" align="right"><img src="design/onglet/ongletnews.gif" width="25" height="515" border="0" usemap="#Map">
+</td>
+          </tr>
+        </table>      </td>
+      <td align="center" valign="top" bgcolor="#FFFFFF">
+	  <!-- Page principale -->
+
+      <table width="100%"  border="0" cellspacing="14" cellpadding="0">
+        <tr>
+          <td width="65%" align="center" valign="top"><div align="center">
+              <div align="center">
+        <style type="text/css">
+<!--
+.Style2 {font-size: -2}
+-->
+</style>
+<div align="center">
+  <table width="570" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top"><div align="center">
+          <p><img src="design/canon/canonHnews.png" width="570" height="19"></p>
+        </div></td>
+    </tr>
+  </table>
+  <table width="570" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+    <tr>
+      <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+      24/05/2004 <b>[<font color=#0033FF>PS2</font>]</b> - <b> [Images Inside] Nouvelles images de FF12</b> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Images Inside] Nouvelles images de FF12" class=lien3>CedFlow</a></font>
+		<table width="100%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8"><tr><td valign="top" bgcolor="#FFFFFF"><div style="font-family:Verdana; font-size=10pt;">Voici toutes les photos:<br />
+<br />
+ <p align=center>  <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_15_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_16_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_17_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_18_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_19_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_20_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_21_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_22_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_23_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_24_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154308_25_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_3_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_4_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_5_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_6_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_7_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_8_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_9_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_10_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_11_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_12_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154307_13_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154306_0_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154306_1_big.jpg > <br />
+<br />
+ <img src= http://www.jeux-france.com/Webmasters/Images/1200520040523_154306_2_big.jpg >  </p> <br />
+<br />
+C'est tout !!! <img src=images/s7.gif border=0></div></td></tr></table>
+		<div align=right>&gt;&gt; <a href="http://www.4gamers-fr.com/forum/viewforum.php?f=2&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class=lien>Commenter cette news sur le Forum</a> &gt;&gt;<font size="-2"><br> - Posté à : 16:17 - </font></div></div>      </td>
+    </tr>
+  </table>
+  <table width="570" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3">Haut</a> ^</font></div>
+        <div align="left" class="Style2"></div></td>
+    </tr>
+  </table>
+  <br>
+  <table width="570" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+    <tr>
+      <td align="left" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+        <p><b>..:: 16/07/2004 ::..</b><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1352.txt&titre_site=Top des Ventes au Japon [Consoles & Jeux] class=lien2>Top des Ventes au Japon [Consoles & Jeux]</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Top des Ventes au Japon [Consoles & Jeux]" class=lien3>CedFlow</a></font><br><b>[<font color=#009900>XBox</font>]</b> - <a href=?page=news.php&numnews=mes1351.txt&titre_site=1 Millions pour le XBox live class=lien2>1 Millions pour le XBox live</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=1 Millions pour le XBox live" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1349.txt&titre_site=Doom 3 passe en version Gold class=lien2>Doom 3 passe en version Gold</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Doom 3 passe en version Gold" class=lien3>CedFlow</a></font><br><p><b>..:: 15/07/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1344.txt&titre_site=DBZ Budokai 3 [images inside] class=lien2>DBZ Budokai 3 [images inside]</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=DBZ Budokai 3 [images inside]" class=lien3>Biloot</a></font><br><b>[<font color=#000000>Portables</font>]</b> - <a href=?page=news.php&numnews=mes1343.txt&titre_site=Star Wars Trilogy class=lien2>Star Wars Trilogy</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Star Wars Trilogy" class=lien3>AtchoumLeChove</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1342.txt&titre_site=Baten Kaitos une date ! class=lien2>Baten Kaitos une date !</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Baten Kaitos une date !" class=lien3>AtchoumLeChove</a></font><br><p><b>..:: 13/07/2004 ::..</b><br><b>[<font color=#0033FF>P</font><font color=#000000>S</font><font color=#0033FF>P</font>]</b> - <a href=?page=news.php&numnews=mes1341.txt&titre_site=Playstation meeting 2004 class=lien2>Playstation meeting 2004</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=Playstation meeting 2004" class=lien3>Biloot</a></font><br><p><b>..:: 12/07/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1339.txt&titre_site=WE8 [news & images inside] class=lien2>WE8 [news & images inside]</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=WE8 [news & images inside]" class=lien3>Biloot</a></font><br><b>[<font color=#000000>Autre</font>]</b> - <a href=?page=news.php&numnews=mes1337.txt&titre_site=La PS3 jouable à l'E3 2005 class=lien2>La PS3 jouable à l'E3 2005</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=La PS3 jouable à l'E3 2005" class=lien3>AtchoumLeChove</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1336.txt&titre_site=Nintendo Absent au TGS class=lien2>Nintendo Absent au TGS</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Nintendo Absent au TGS" class=lien3>AtchoumLeChove</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1331.txt&titre_site=Pack Pikmin 1+2 class=lien2>Pack Pikmin 1+2</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Pack Pikmin 1+2" class=lien3>AtchoumLeChove</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1329.txt&titre_site=Nouveau Packs Nintendo... class=lien2>Nouveau Packs Nintendo...</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Nouveau Packs Nintendo..." class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1328.txt&titre_site=Changement de développeur pour StarCraft Ghost  class=lien2>Changement de développeur pour StarCraft Ghost </a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Changement de développeur pour StarCraft Ghost " class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1327.txt&titre_site=Top des Ventes au Japon [Consoles & Jeux] class=lien2>Top des Ventes au Japon [Consoles & Jeux]</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Top des Ventes au Japon [Consoles & Jeux]" class=lien3>CedFlow</a></font><br><p><b>..:: 07/07/2004 ::..</b><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1322.txt&titre_site=Pad Mario !!!! class=lien2>Pad Mario !!!!</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Pad Mario !!!!" class=lien3>AtchoumLeChove</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1321.txt&titre_site=WE8  class=lien2>WE8 </a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=WE8 " class=lien3>Biloot</a></font><br><p><b>..:: 06/07/2004 ::..</b><br><b>[<font color=#FFFFFF>4Gamers</font>]</b> - <a href=?page=news.php&numnews=mes1316.txt&titre_site=Nouvelle Version du site class=lien2>Nouvelle Version du site</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Nouvelle Version du site" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1310.txt&titre_site=Burnout 3 class=lien2>Burnout 3</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=Burnout 3" class=lien3>Biloot</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1309.txt&titre_site=FFXI : Chains of Promathia ! class=lien2>FFXI : Chains of Promathia !</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=FFXI : Chains of Promathia !" class=lien3>Biloot</a></font><br><p><b>..:: 05/07/2004 ::..</b><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1306.txt&titre_site=Enjoy Pack + class=lien2>Enjoy Pack +</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Enjoy Pack +" class=lien3>AtchoumLeChove</a></font><br><p><b>..:: 02/07/2004 ::..</b><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1302.txt&titre_site=Half-Life 2 sur ConsoleS !!! class=lien2>Half-Life 2 sur ConsoleS !!!</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Half-Life 2 sur ConsoleS !!!" class=lien3>CedFlow</a></font><br><b>[<font color=#000000>Internet</font>]</b> - <a href=?page=news.php&numnews=mes1301.txt&titre_site=Joyeux Anniversaire !!! class=lien2>Joyeux Anniversaire !!!</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Joyeux Anniversaire !!!" class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1300.txt&titre_site=Mario Tennis et le LAN... conclusion class=lien2>Mario Tennis et le LAN... conclusion</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Mario Tennis et le LAN... conclusion" class=lien3>CedFlow</a></font><br><p><b>..:: 01/07/2004 ::..</b><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1299.txt&titre_site=FIFA 2005 [Vidéos Inside]  class=lien2>FIFA 2005 [Vidéos Inside] </a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=FIFA 2005 [Vidéos Inside] " class=lien3>Biloot</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1298.txt&titre_site=RICHARD BURNS class=lien2>RICHARD BURNS</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=RICHARD BURNS" class=lien3>Biloot</a></font><br><p><b>..:: 29/06/2004 ::..</b><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1296.txt&titre_site=Resident Evil 4 ! [Vidéo Inside] class=lien2>Resident Evil 4 ! [Vidéo Inside]</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Resident Evil 4 ! [Vidéo Inside]" class=lien3>AtchoumLeChove</a></font><br><p><b>..:: 28/06/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1295.txt&titre_site=GT4  [Vidéo Inside]  class=lien2>GT4  [Vidéo Inside] </a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=GT4  [Vidéo Inside] " class=lien3>Biloot</a></font><br><p><b>..:: 25/06/2004 ::..</b><br><b>[<font color=#009900>XBox</font>]</b> - <a href=?page=news.php&numnews=mes1294.txt&titre_site=Ninja Gaiden en version 1.1 class=lien2>Ninja Gaiden en version 1.1</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Ninja Gaiden en version 1.1" class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1293.txt&titre_site=Nouveau Pack GameCube au Japon class=lien2>Nouveau Pack GameCube au Japon</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Nouveau Pack GameCube au Japon" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1292.txt&titre_site= [Vidéo Inside] Colin McRae 2005 class=lien2> [Vidéo Inside] Colin McRae 2005</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéo Inside] Colin McRae 2005" class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1291.txt&titre_site=Du Mario Tennis en Réseau !!! class=lien2>Du Mario Tennis en Réseau !!!</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Du Mario Tennis en Réseau !!!" class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1290.txt&titre_site= [Vidéos Inside] Paper Mario 2 class=lien2> [Vidéos Inside] Paper Mario 2</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéos Inside] Paper Mario 2" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1289.txt&titre_site=Top des Ventes au Japon [Consoles & Jeux] class=lien2>Top des Ventes au Japon [Consoles & Jeux]</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Top des Ventes au Japon [Consoles & Jeux]" class=lien3>CedFlow</a></font><br><p><b>..:: 24/06/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1288.txt&titre_site=ACE COMBAT 5, une date de sortie class=lien2>ACE COMBAT 5, une date de sortie</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=ACE COMBAT 5, une date de sortie" class=lien3>Biloot</a></font><br><b>[<font color=#0033FF>P</font><font color=#000000>S</font><font color=#0033FF>P</font>]</b> - <a href=?page=news.php&numnews=mes1287.txt&titre_site=Final Fantasy VII Advent Children class=lien2>Final Fantasy VII Advent Children</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=Final Fantasy VII Advent Children" class=lien3>Biloot</a></font><br><p><b>..:: 23/06/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1284.txt&titre_site=DBZ Budokai 3 [Images Inside]  class=lien2>DBZ Budokai 3 [Images Inside] </a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=DBZ Budokai 3 [Images Inside] " class=lien3>Biloot</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1282.txt&titre_site=Top des Ventes au US sur Mai [Consoles & Jeux] class=lien2>Top des Ventes au US sur Mai [Consoles & Jeux]</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Top des Ventes au US sur Mai [Consoles & Jeux]" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1280.txt&titre_site= [Vidéo Inside] Need For Speed Underground 2 class=lien2> [Vidéo Inside] Need For Speed Underground 2</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéo Inside] Need For Speed Underground 2" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1279.txt&titre_site= [Vidéos Inside] SpiderMan 2 class=lien2> [Vidéos Inside] SpiderMan 2</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéos Inside] SpiderMan 2" class=lien3>CedFlow</a></font><br><p><b>..:: 18/06/2004 ::..</b><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1275.txt&titre_site=StarWars Knights Of The Old Republic: The Sith Lords [Images Inside] class=lien2>StarWars Knights Of The Old Republic: The Sith Lords [Images Inside]</a> <font size="-2">par <a href="mailto:logan@4gamers-fr.com?subject=StarWars Knights Of The Old Republic: The Sith Lords [Images Inside]" class=lien3>Logan</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1273.txt&titre_site=Quleques images de FF XII class=lien2>Quleques images de FF XII</a> <font size="-2">par <a href="mailto:logan@4gamers-fr.com?subject=Quleques images de FF XII" class=lien3>Logan</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1272.txt&titre_site= [Vidéo Inside] Jak 3 class=lien2> [Vidéo Inside] Jak 3</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéo Inside] Jak 3" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1271.txt&titre_site= [Vidéo Inside] Worms: Forts Under Siege! class=lien2> [Vidéo Inside] Worms: Forts Under Siege!</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéo Inside] Worms: Forts Under Siege!" class=lien3>CedFlow</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1270.txt&titre_site= [Vidéo Inside] The Getaway: Black Monday class=lien2> [Vidéo Inside] The Getaway: Black Monday</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéo Inside] The Getaway: Black Monday" class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1269.txt&titre_site= [Vidéo Inside] StarFox 2 class=lien2> [Vidéo Inside] StarFox 2</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéo Inside] StarFox 2" class=lien3>CedFlow</a></font><br><p><b>..:: 17/06/2004 ::..</b><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1268.txt&titre_site= [Vidéo Inside] Virtua Fighter Cyber Generation class=lien2> [Vidéo Inside] Virtua Fighter Cyber Generation</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéo Inside] Virtua Fighter Cyber Generation" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1267.txt&titre_site=Patch 1.1 pour Colin Mc Rae 04 class=lien2>Patch 1.1 pour Colin Mc Rae 04</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Patch 1.1 pour Colin Mc Rae 04" class=lien3>CedFlow</a></font><br><b>[<font color=#000000>Portables</font>]</b> - <a href=?page=news.php&numnews=mes1265.txt&titre_site=Match: Sony PSP versus Nintendo DS class=lien2>Match: Sony PSP versus Nintendo DS</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Match: Sony PSP versus Nintendo DS" class=lien3>CedFlow</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1264.txt&titre_site=Cold Winter class=lien2>Cold Winter</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=Cold Winter" class=lien3>Biloot</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1263.txt&titre_site=M. Itawa plus bavard que jamais... class=lien2>M. Itawa plus bavard que jamais...</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=M. Itawa plus bavard que jamais..." class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1262.txt&titre_site=Voici la liste des prochaines sortie Sega en Europe class=lien2>Voici la liste des prochaines sortie Sega en Europe</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Voici la liste des prochaines sortie Sega en Europe" class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1261.txt&titre_site= [Vidéos Inside] Nouvelles vidéos de Metroïde Prime: Echoes class=lien2> [Vidéos Inside] Nouvelles vidéos de Metroïde Prime: Echoes</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéos Inside] Nouvelles vidéos de Metroïde Prime: Echoes" class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1260.txt&titre_site=Le retard de Resident Evil 4 class=lien2>Le retard de Resident Evil 4</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Le retard de Resident Evil 4" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1259.txt&titre_site= [Vidéo Inside] Second Sight class=lien2> [Vidéo Inside] Second Sight</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject= [Vidéo Inside] Second Sight" class=lien3>CedFlow</a></font><br><p><b>..:: 15/06/2004 ::..</b><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1258.txt&titre_site=Gta et sony c'est fini ... class=lien2>Gta et sony c'est fini ...</a> <font size="-2">par <a href="mailto:logan@4gamers-fr.com?subject=Gta et sony c'est fini ..." class=lien3>Logan</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1257.txt&titre_site=[Vidéo Inside] Metal Gear Solid 3 class=lien2>[Vidéo Inside] Metal Gear Solid 3</a> <font size="-2">par <a href="mailto:logan@4gamers-fr.com?subject=[Vidéo Inside] Metal Gear Solid 3" class=lien3>Logan</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1256.txt&titre_site=Un phantasy star online sur pc ? class=lien2>Un phantasy star online sur pc ?</a> <font size="-2">par <a href="mailto:logan@4gamers-fr.com?subject=Un phantasy star online sur pc ?" class=lien3>Logan</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1255.txt&titre_site=Ventes de PS2 .. Sony voit double class=lien2>Ventes de PS2 .. Sony voit double</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Ventes de PS2 .. Sony voit double" class=lien3>SwapFilez</a></font><br><p><b>..:: 14/06/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1254.txt&titre_site=Final Fantasy 12 [Vidéo Inside]  class=lien2>Final Fantasy 12 [Vidéo Inside] </a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=Final Fantasy 12 [Vidéo Inside] " class=lien3>Biloot</a></font><br><b>[<font color=#666666>N</font><font color=#0033FF>DS</font>]</b> - <a href=?page=news.php&numnews=mes1253.txt&titre_site=Nintendo DS pas plus chère qu'une GBA SP ??? class=lien2>Nintendo DS pas plus chère qu'une GBA SP ???</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Nintendo DS pas plus chère qu'une GBA SP ???" class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1252.txt&titre_site=Resident Evil 4 repoussé... class=lien2>Resident Evil 4 repoussé...</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Resident Evil 4 repoussé..." class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1251.txt&titre_site=Top des Ventes au Japon [Consoles & Jeux] class=lien2>Top des Ventes au Japon [Consoles & Jeux]</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Top des Ventes au Japon [Consoles & Jeux]" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1250.txt&titre_site=Le Patch 1.2 de FarCry repoussé... class=lien2>Le Patch 1.2 de FarCry repoussé...</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Le Patch 1.2 de FarCry repoussé..." class=lien3>CedFlow</a></font><br><p><b>..:: 11/06/2004 ::..</b><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1249.txt&titre_site=Arrestation de pirates voleurs de la source de Half Life 2 class=lien2>Arrestation de pirates voleurs de la source de Half Life 2</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Arrestation de pirates voleurs de la source de Half Life 2" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1248.txt&titre_site=Top 10 vente de jeux PC class=lien2>Top 10 vente de jeux PC</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Top 10 vente de jeux PC" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1247.txt&titre_site=Leisure Suit Larry class=lien2>Leisure Suit Larry</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Leisure Suit Larry" class=lien3>SwapFilez</a></font><br><p><b>..:: 10/06/2004 ::..</b><br><b>[<font color=#000000>Portables</font>]</b> - <a href=?page=news.php&numnews=mes1246.txt&titre_site=[Vidéo Inside] Sonic adventure 3 class=lien2>[Vidéo Inside] Sonic adventure 3</a> <font size="-2">par <a href="mailto:logan@4gamers-fr.com?subject=[Vidéo Inside] Sonic adventure 3" class=lien3>Logan</a></font><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1245.txt&titre_site=Athens 2004 [Image Inside]  class=lien2>Athens 2004 [Image Inside] </a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=Athens 2004 [Image Inside] " class=lien3>Biloot</a></font><br><p><b>..:: 09/06/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1244.txt&titre_site=[Vidéo Inside] Prince of persia 2 class=lien2>[Vidéo Inside] Prince of persia 2</a> <font size="-2">par <a href="mailto:logan@4gamers-fr.com?subject=[Vidéo Inside] Prince of persia 2" class=lien3>Logan</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1237.txt&titre_site=DRIV3R passe gold class=lien2>DRIV3R passe gold</a> <font size="-2">par <a href="mailto:logan@4gamers-fr.com?subject=DRIV3R passe gold" class=lien3>Logan</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1234.txt&titre_site=Et les élus sont..... [<font color=#FFCC00>E</font><font color=#FF0000>3</font>]  class=lien2>Et les élus sont..... [<font color=#FFCC00>E</font><font color=#FF0000>3</font>] </a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Et les élus sont..... [E3] " class=lien3>CedFlow</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1233.txt&titre_site=Combien a  coûté le Piratge chez Nintendo l'année dernière class=lien2>Combien a  coûté le Piratge chez Nintendo l'année dernière</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Combien a  coûté le Piratge chez Nintendo l'année dernière" class=lien3>CedFlow</a></font><br><p><b>..:: 08/06/2004 ::..</b><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1231.txt&titre_site=Top 10 de jeux les plus attendus sur GameStats.com class=lien2>Top 10 de jeux les plus attendus sur GameStats.com</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Top 10 de jeux les plus attendus sur GameStats.com" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1230.txt&titre_site=Plein de nouvelles vidéos  [Vidéos Inside]  class=lien2>Plein de nouvelles vidéos  [Vidéos Inside] </a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Plein de nouvelles vidéos  [Vidéos Inside] " class=lien3>CedFlow</a></font><br><p><b>..:: 07/06/2004 ::..</b><br><b>[<font color=#000000>Autre</font>]</b> - <a href=?page=news.php&numnews=mes1229.txt&titre_site=Nouveau MAG prometteur !!! class=lien2>Nouveau MAG prometteur !!!</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Nouveau MAG prometteur !!!" class=lien3>CedFlow</a></font><br><p><b>..:: 06/06/2004 ::..</b><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1228.txt&titre_site= [Images Inside] Jaquettes de MP2 et RE4 class=lien2> [Images Inside] Jaquettes de MP2 et RE4</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject= [Images Inside] Jaquettes de MP2 et RE4" class=lien3>AtchoumLeChove</a></font><br><p><b>..:: 04/06/2004 ::..</b><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1227.txt&titre_site=[màj] Top des Ventes au Japon [Consoles & Jeux] class=lien2>[màj] Top des Ventes au Japon [Consoles & Jeux]</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=[màj] Top des Ventes au Japon [Consoles & Jeux]" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1225.txt&titre_site=Annonce de Singles : Treesome  class=lien2>Annonce de Singles : Treesome </a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Annonce de Singles : Treesome " class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1223.txt&titre_site=Star Wars Galaxies Essayez-le pendant 14 jours !! class=lien2>Star Wars Galaxies Essayez-le pendant 14 jours !!</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Star Wars Galaxies Essayez-le pendant 14 jours !!" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1222.txt&titre_site=Top des jeux les plus attendus au Japon class=lien2>Top des jeux les plus attendus au Japon</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Top des jeux les plus attendus au Japon" class=lien3>CedFlow</a></font><br><b>[<font color=#666666>N</font><font color=#0033FF>DS</font>]</b> - <a href=?page=news.php&numnews=mes1221.txt&titre_site=Date de sortie et jeux sur Nintendo DS class=lien2>Date de sortie et jeux sur Nintendo DS</a> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Date de sortie et jeux sur Nintendo DS" class=lien3>CedFlow</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1219.txt&titre_site=2 nouvelles videos de Star Wars : Battlefront class=lien2>2 nouvelles videos de Star Wars : Battlefront</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=2 nouvelles videos de Star Wars : Battlefront" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1217.txt&titre_site=SpiderMan 2 Démo class=lien2>SpiderMan 2 Démo</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=SpiderMan 2 Démo" class=lien3>SwapFilez</a></font><br><p><b>..:: 02/06/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1216.txt&titre_site=WE8  [Image Inside]  class=lien2>WE8  [Image Inside] </a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=WE8  [Image Inside] " class=lien3>Biloot</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1212.txt&titre_site=Dates de sorties chez CDV class=lien2>Dates de sorties chez CDV</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Dates de sorties chez CDV" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1211.txt&titre_site=Démo de X-Plane class=lien2>Démo de X-Plane</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Démo de X-Plane" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1210.txt&titre_site=Thief: Deadly Shadows Demo class=lien2>Thief: Deadly Shadows Demo</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Thief: Deadly Shadows Demo" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1209.txt&titre_site=Nouveau Amerrica's Army (Downrange) class=lien2>Nouveau Amerrica's Army (Downrange)</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Nouveau Amerrica's Army (Downrange)" class=lien3>SwapFilez</a></font><br><p><b>..:: 01/06/2004 ::..</b><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1208.txt&titre_site= [Vidéo Inside] The Legend of Zelda E3 class=lien2> [Vidéo Inside] The Legend of Zelda E3</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject= [Vidéo Inside] The Legend of Zelda E3" class=lien3>AtchoumLeChove</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1207.txt&titre_site=Memory Card 1019 Block class=lien2>Memory Card 1019 Block</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Memory Card 1019 Block" class=lien3>AtchoumLeChove</a></font><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=news.php&numnews=mes1206.txt&titre_site=Resident Evil 4 ! [Vidéo Inside] class=lien2>Resident Evil 4 ! [Vidéo Inside]</a> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Resident Evil 4 ! [Vidéo Inside]" class=lien3>AtchoumLeChove</a></font><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1205.txt&titre_site=Prochains titres a sortir chez Nintendo class=lien2>Prochains titres a sortir chez Nintendo</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Prochains titres a sortir chez Nintendo" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1204.txt&titre_site=Mods Unreal Tournament 2004 class=lien2>Mods Unreal Tournament 2004</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Mods Unreal Tournament 2004" class=lien3>SwapFilez</a></font><br><p><b>..:: 31/05/2004 ::..</b><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1203.txt&titre_site=Community Bonus Pack 2e édition pour Unreal Tournament class=lien2>Community Bonus Pack 2e édition pour Unreal Tournament</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Community Bonus Pack 2e édition pour Unreal Tournament" class=lien3>SwapFilez</a></font><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1202.txt&titre_site=Démos a télécharger class=lien2>Démos a télécharger</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Démos a télécharger" class=lien3>SwapFilez</a></font><br><p><b>..:: 29/05/2004 ::..</b><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1201.txt&titre_site=Leisure Suit Larry: Magna Cum Laude  class=lien2>Leisure Suit Larry: Magna Cum Laude </a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Leisure Suit Larry: Magna Cum Laude " class=lien3>SwapFilez</a></font><br><p><b>..:: 28/05/2004 ::..</b><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=news.php&numnews=mes1200.txt&titre_site=Sortie de Doom 3 class=lien2>Sortie de Doom 3</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=Sortie de Doom 3" class=lien3>SwapFilez</a></font><br><p><b>..:: 27/05/2004 ::..</b><br><b>[<font color=#0033FF>P</font><font color=#000000>S</font><font color=#0033FF>P</font>]</b> - <a href=?page=news.php&numnews=mes1199.txt&titre_site=Futur prix des jeux PSP class=lien2>Futur prix des jeux PSP</a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=Futur prix des jeux PSP" class=lien3>Biloot</a></font><br><p><b>..:: 26/05/2004 ::..</b><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=news.php&numnews=mes1198.txt&titre_site=GT4 prologue [Vidéo Inside]  class=lien2>GT4 prologue [Vidéo Inside] </a> <font size="-2">par <a href="mailto:biloot@4gamers-fr.com?subject=GT4 prologue [Vidéo Inside] " class=lien3>Biloot</a></font><br><p><b>..:: 25/05/2004 ::..</b><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=news.php&numnews=mes1197.txt&titre_site=The Sims Mega Deluxe class=lien2>The Sims Mega Deluxe</a> <font size="-2">par <a href="mailto:swapfilez@4gamers-fr.com?subject=The Sims Mega Deluxe" class=lien3>SwapFilez</a></font><br>      </div></td>
+    </tr>
+  </table>
+  <table width="570" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3">Haut</a> ^</font></div>
+        <div align="left" class="Style2"></div></td>
+    </tr>
+  </table>
+  <script language="JavaScript1.1">
+		<!--
+		hsh = new Date();
+		hsd = document;
+		hsr = hsd.referrer.replace(/[<>]/g, '');
+		hsi = '<a href="http://www.xiti.com/xiti.asp?s=123018"';
+		hsi += ' TARGET="_top"><img width="39" height="25" border=0 ';
+		hsi += 'src="http://logv23.xiti.com/hit.xiti?s=123018';
+		hsi += '&p=News';
+		hsi += '&hl=' + hsh.getHours() + 'x' + hsh.getMinutes() + 'x' + hsh.getSeconds();
+		if(parseFloat(navigator.appVersion)>=4)
+		{Xiti_s=screen;hsi += '&r=' + Xiti_s.width + 'x' + Xiti_s.height + 'x' + Xiti_s.pixelDepth + 'x' + Xiti_s.colorDepth;}
+		hsd.writeln(hsi + '&ref=' + hsr.replace(/&/g, '$') + '" title="Mesurez votre audience"></a><\!--');
+		//-->
+	</script>
+  </p>
+  <noscript>
+  <a href="http://www.xiti.com/xiti.asp?s=123018" TARGET="_top"><img width="39" height="25" border=0 src="http://logv23.xiti.com/hit.xiti?s=123018&p=&" title="Mesurez votre audience"></a>
+  </noscript>
+  <!--//-->
+  <A HREF=http://www.hit-parade.com/hp.asp?site=a366807 TARGET=_top><br>
+<IMG SRC=http://loga.hit-parade.com/logohp1.gif?site=a366807 TITLE="Hit-Parade" WIDTH=77 HEIGHT=15 BORDER=0></A></div>
+		</div>
+              </div></td>
+          <td width="35%" align="center" valign="top"><div align="center">
+		  	              <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHdownload.gif" width="220" height="19" border="0" usemap="#Map4"></div></td>
+                </tr>
+              </table>
+              <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+                <tr>
+                  <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+                      <b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=exploredownload.php&numnews=mes1360.txt&titre_site=Vidéo de Prince of Persia 2 class=lien2>Vidéo de Prince of Persia 2</a><br><b>[<font color=#FF66CC>GBA</font>]</b> - <a href=?page=exploredownload.php&numnews=mes1359.txt&titre_site=Vidéo DonkeyKong Country 2 class=lien2>Vidéo DonkeyKong Country 2</a><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=?page=exploredownload.php&numnews=mes1355.txt&titre_site=Vidéo Lord of the Rings: Battle For Middle Earth class=lien2>Vidéo Lord of the Rings: Battle For Middle Earth</a><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=exploredownload.php&numnews=mes1354.txt&titre_site=Vidéo de Star Wars: Battlefront class=lien2>Vidéo de Star Wars: Battlefront</a><br><b>[<font color=#009900>XBox</font>]</b> - <a href=?page=exploredownload.php&numnews=mes1353.txt&titre_site=Nouvelles vidéo de Fable class=lien2>Nouvelles vidéo de Fable</a><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=?page=exploredownload.php&numnews=mes1350.txt&titre_site=Vidéo de Gradius V class=lien2>Vidéo de Gradius V</a><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=?page=exploredownload.php&numnews=mes1348.txt&titre_site=Splinter Cell 3 class=lien2>Splinter Cell 3</a><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=?page=exploredownload.php&numnews=mes1333.txt&titre_site=Paper Mario II news Vidéos class=lien2>Paper Mario II news Vidéos</a><br>                  </div></td>
+                </tr>
+              </table>
+            </div>
+              <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+                  <td width="50%" valign="top"><div align="right"><font size="-2" face="Arial, Helvetica, sans-serif">&gt;<a href="?page=indexnews.php&titre_site=G%E9n%E9ral%20-%3E%20News" class="lien3 Style3"> Suite </a> &gt;</font></div></td>
+                </tr>
+              </table>
+			                <br>
+              <font size="-1"><span class="Style1">R&eacute;digez vos articles, ils seront<br>
+      sur 4Gamers-fr !!!</span><br>
+      <a href="http://4gamers.free.fr/courrier.htm" target="_blank" class="lien2">&lt;&lt; ICI &gt;&gt;</a> </font> <br>
+      		<br>
+	  <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHarticles.gif" width="220" height="19" border="0" usemap="#Map5"></div></td>
+        </tr>
+      </table>
+      <div align="center">
+        <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+          <tr>
+            <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+            <b>[Autre]</b> - <a href=?page=articles.php&numnews=mes82.txt&titre_site=Game On class=lien2>Game On </a><img src=images/pop.gif width=23 height=11><br><b>[Preview]</b> - <a href=?page=articles.php&numnews=mes81.txt&titre_site=Winning Eleven 8 class=lien2>Winning Eleven 8 </a><img src=images/pop.gif width=23 height=11><br>            <br>                
+            <div align="center">
+                <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDpreviews.gif" width="120" height="20" border="0" usemap="#Map7"></td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=?page=articles.php&numnews=mes81.txt&titre_site=Winning Eleven 8 class=lien2>Winning Eleven 8</a><br>- <a href=?page=articles.php&numnews=mes66.txt&titre_site=Nouveautés PS2 class=lien2>Nouveautés PS2</a><br>- <a href=?page=articles.php&numnews=mes13.txt&titre_site=James Bond : Quitte ou Double class=lien2>James Bond : Quitte ou Double</a><br>                    </td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDtests.gif" width="120" height="20" border="0" usemap="#Map8"></td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=?page=articles.php&numnews=mes78.txt&titre_site=FarCry : Enfin du DirectX 9 class=lien2>FarCry : Enfin du DirectX 9</a><br>- <a href=?page=articles.php&numnews=mes77.txt&titre_site=Final Fantasy : Christal Chronicles mode multi joueurs class=lien2>Final Fantasy : Christal Chronicles mode multi joueurs</a><br>- <a href=?page=articles.php&numnews=mes73.txt&titre_site=Final Fantasy Cristal Chronicles class=lien2>Final Fantasy Cristal Chronicles</a><br>                    </td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDautres.gif" width="120" height="20" border="0" usemap="#Map9">                        </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=?page=articles.php&numnews=mes82.txt&titre_site=Game On class=lien2>Game On</font></a><br>- <a href=?page=articles.php&numnews=mes80.txt&titre_site=CyberUniCup 04 class=lien2>CyberUniCup 04</font></a><br>- <a href=?page=articles.php&numnews=mes54.txt&titre_site=De l’argent a dépenser ?? ... Bons titres à se procurer class=lien2>De l’argent a dépenser ?? ... Bons titres à se procurer</font></a><br>                    </td>
+                  </tr>
+                </table></div>
+            </div></td>
+          </tr>
+        </table>
+      </div>
+      <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+          <td width="50%" valign="top"><div align="right"><font size="-2" face="Arial, Helvetica, sans-serif">&gt;<a href="?page=indexnews.php&titre_site=G%E9n%E9ral%20-%3E%20News" class="lien3 Style3"> Suite </a> &gt;</font></div></td>
+        </tr>
+      </table>
+	        <map name="Map3" id="Map3">
+        <area shape="rect" coords="40,1,97,21" href="?page=indexnews.php&titre_site=G&#233;n&#233;ral%20-%3E%20News" alt="Voir la liste des News">
+      </map>            <br>
+      <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHForum.gif" width="220" height="19" border="0" usemap="#Map6Map"></div></td>
+        </tr>
+      </table>
+      <div align="center">
+        <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+          <tr>
+            <td align="center" valign="top" bgcolor="#C8DDEE"><table width="95%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=6&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum G&eacute;n&eacute;ral</a></td>
+                  <td width="100" align="left">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=1&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum Consoles :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=1&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Gamecube</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=2&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Playstation2</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=3&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Xbox</a></td>
+                </tr>
+                <tr>
+                  <td align="left">&nbsp;</td>
+                  <td align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=5" target="_blank" class="lien3">Portables</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=4&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Autres</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=7" target="_blank" class="lien2">Forum PC :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=11" target="_blank" class="lien3">Jeux</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=12" target="_blank" class="lien3">Hardware</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=3&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum Nostalgie :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=7&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">G&eacute;n&eacute;ral</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=8&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Emulation</a></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+          </tr>
+        </table>
+      </div>
+      <map name="Map6Map" id="Map62">
+        <area shape="rect" coords="111,3,181,17" href="http://www.4gamers-fr.com/forum/" target="_blank" alt="Aller sur le Forum">
+      </map>      <br>
+      			<table width="98%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><div align="left"><img src="design/canon/CanonHPartenaires.gif" width="220" height="19" border="0" usemap="#Map1"></div></td>
+          </tr>
+        </table>
+		<map name="Map1" id="Map1">
+          <area shape="rect" coords="40,1,168,18" href="?page=liens.php&titre_site=G&#233;n&#233;ral%20-%3E%20Liens" alt="Devenir Partenaire et Voir la liste de nos Partenaires">
+        </map>
+		<table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+          <tr>
+            <td align="center" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+                <marquee id="scroller" scrollamount="1" direction="up" width="200" height="200"
+					onmouseover="javascript:scroller.stop()" onmouseout="javascript:scroller.start()">
+                <div align="center">
+				<a href="http://www.allsoluces.com" target="_blank"><img src="liens/partenariat/bandeau_allsoluces.gif" alt="Toutes les astuces et solutions des jeux pour PS2, XBOX, GAMECUBE, PC, GAMEBOY ADVANCE" width="88" height="30" border="0"></a> <br>
+<a href="http://www.nintendojofr.com" target="_blank"><img src="http://www.nintendojofr.com/autres/affilies/nintendojofr.gif" alt="Nintendojofr" width="88" height="31" border="0"></a> <br>
+<a href="http://www.snes-fr.com" target=_blank><img src="http://www.snes-fr.com/88x31.gif" alt="snes-fr" width="88" height="31" border=0></a> <br>
+<a href="http://www.xboxgazette.com" target="_blank"><img src="http://membres.lycos.fr/xboxgazette/banner_xboxgazette2.jpg" alt="xboxgazette" width="88" height="31" border="0"></a> <br>
+<A HREF="http://www.ciblejeux.com/partenaires.php?ident=105" target="_blank"><img src="http://www.ciblejeux.com/ciblejeux2.gif" alt="CibleJeux" width="88" height="31" border="0"></A> <br>
+<a href="http://www.cjeux.com/ajout_hit.php?id=99" target="_blank"><img src="http://www.cjeux.com/bouton.gif" alt="CJeux" width="88" height="31" border="0"></a> <br>
+<a href="http://www.2001jeux.com/in1.php?id=290&referrer=http://www.4gamers-fr.com/" target="_blank"><img src="liens/partenariat/bout1.gif" alt="2001Jeux" width="88" height="31" border="0"></a> <br>
+<a href="http://www.xbox-mag.net" target="_blank"><img src="liens/partenariat/banniere_xmv2_88_33_v3.gif" alt="XBox-mag" width="88" height="31" border="0"></a> <br>
+<a href="http://www.zelda-fantasy.com" target="_blank"><img src="http://zeldafantasy1.free.fr/images/miniban.gif" alt="Zelda-Fantasy" width="88" height="31" border="0"></a> <br>
+<a href="http://www.gameonweb.net" target="_blank"><img src="http://gameonweb.expert-gamers.com/Img/Bannieres/88x31.gif" alt="GameOnWeb" width="88" height="31" border="0"></a> <br>
+<a href="http://www.gbadvance.tk" target="_blank"><img src="http://gbadvance.pingouin.ca/design/88.gif" alt="GBAdvance" width="88" height="31" border="0"></a>                    <br>
+<a href="http://www.netgamesmicro.com" target="_blank"><img src="liens/partenariat/netgames.jpg" alt="NetGames" width="88" height="31" border="0"></a> <br>
+<a href="http://www.xboxgen.net/" target="_blank" class="lien2">Xboxgen</a><a href="http://www.nintendomaine.com/" target="_blank" class="lien2"></a> <br>
+<a href="http://www.nintendo-quebec.com/" target="_blank" class="lien2">Nintendo-Quebec<br>
+</a><a href="http://www.hit-games.com/" target="_blank" class="lien2">Hit-Games</a><a href="http://www.nintendo-quebec.com" target="_blank" class="lien2"> </a><a href="http://www.nintendomaine.com/" target="_blank" class="lien2"> </a><a href="http://www.gamelt.com/" target="_blank" class="lien2"><br>
+Gamelt</a><a href="http://www.nintendo-quebec.com" target="_blank" class="lien2"> </a><a href="http://www.benz.be/annuaire/gestion/in.php?id=142" target="_blank" class="lien2"> <br>
+Benz<br>
+</a><a href="http://www.pocketgames.fr.st/" target="_blank" class="lien2">PocketGames<br>
+</a><a href="http://www.nintendomaniak.com/" target="_blank" class="lien2">Nintendomaniak</a><a href="http://www.pocketgames.fr.st/" target="_blank" class="lien2"> </a><a href="http://www.benz.be/annuaire/gestion/in.php?id=142" target="_blank" class="lien2"><br>
+</a><a href="http://www.consoles-games.com" target="_blank" class="lien2">Consoles-Games<br>
+</a><a href="http://www.info-game.net/" target="_blank" class="lien2">Info-Game</a><a href="http://www.puissance-nintendo.com" target="_blank" class="lien2"><br>
+</a><a href="http://www.jeuxvideo.fr" target="_blank" class="lien2">Jeuxvideo.fr</a><a href="http://www.puissance-nintendo.com" target="_blank" class="lien2"> <br>
+Puissance-Nintendo</a>          <p><script language="JavaScript">
+					<!--
+					var name = "partenariat";
+					var domain = "4gamers-fr.com";
+					document.write('<a href="mailto:' + name + '@' + domain + '" class="lien2">');
+					document.write('&lt;&lt; Votre site ICI &gt;&gt;</a>');
+					// -->
+				</script>
+          </p>
+          </marquee>
+                </div>
+            </div></td>
+          </tr>
+        </table>
+		<table width="98%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+          </tr>
+        </table>
+		        </td>
+        </tr>
+      </table>
+</td>
+      <td width="1" background="design/CoteD.gif" bgcolor="#FFFFFF">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="150" height="22" valign="top" background="design/basG.png">&nbsp;</td>
+      <td width="20" height="22" align="left" valign="top" background="design/bas.png"><div align="left"><img src="design/basangleG.png" width="20" height="22"></div></td>
+      <td width="350" height="22" align="left" valign="bottom" background="design/bas.png"><div align="right"><img src="design/barrebas2.gif" width="70" height="22"></div></td>
+      <td width="210" height="22" align="right" valign="baseline" background="design/bas.png"><font size="-1" face="Arial, Helvetica, sans-serif">Design<font color="#CCCCCC"> &amp;</font> PHP <font color="#CCCCCC">by</font>
+        <script language="JavaScript">
+		<!--
+		var name = "cedflow";
+		var domain = "4gamers-fr.com";
+		document.write('<a href="mailto:' + name + '@' + domain + '" class="lien">');
+		document.write('CedFlow</a>');
+		// -->
+		</script>
+      </font></td>
+      <td height="22" align="right" valign="top" background="design/bas.png"><div align="right"><img src="design/barrebas2.gif" width="70" height="22"><img src="design/basV.png" width="1" height="22"></div></td>
+    </tr>
+  </table>
+  <br>
+  <span class="Style2">Toute copie partielle ou totale de ce site est interdite.<br>
+&copy; 2001-2004 4Gamers-fr est optimis&eacute; pour<br>
+le 1024x768 </span><span class="Style3">(4Gamers version 3.1)</span></div>
+<map name="Map">
+    <area shape="poly" coords="5,2,22,2,22,60,5,47" href="?page=accueil.php&titre_site=Le%20site:%20100%25%20Jeux,%20100%25%20Gamers">
+    <area shape="poly" coords="4,62,22,62,23,122,5,108" href="?page=indexnews.php&titre_site=G&#233;n&#233;ral%20-%3E%20News" alt="Voir la liste des News">
+    <area shape="poly" coords="5,121,22,123,22,194,5,180,6,183" href="?page=indexarticles.php&titre_site=G&#233;n&#233;ral%20-%3E%20Articles" alt="Voir la liste des Articles">
+    <area shape="poly" coords="5,194,22,195,23,293,7,278" href="?page=download.php&titre_site=G&#233;n&#233;ral%20-%3E%20Telechargements" alt="Voir la liste des T&eacute;l&eacute;chargements">
+    <area shape="poly" coords="6,370,24,370,23,429,5,416" href="?page=equipe.php&titre_site=G&#233;n&#233;ral%20-%3E%20Equipe" alt="">
+    <area shape="poly" coords="6,430,23,431,23,506,6,492" href="?page=edito.php&titre_site=G&#233;n&#233;ral%20-%3E%20Edito">
+    <area shape="poly" coords="5,295,24,297,22,368,5,355" href="?page=boutique.php&titre_site=G&#233;n&#233;ral%20-%3E%20Boutique%20en%20Ligne">
+</map>
+<map name="Map4" id="Map4">
+    <area shape="rect" coords="55,2,183,17" href="?page=download.php&titre_site=G&#233;n&#233;ral%20-%3E%20Telechargements" alt="Voir la liste des T&eacute;l&eacute;chargements">
+</map>
+<map name="Map5" id="Map5">
+    <area shape="rect" coords="96,2,182,17" href="?page=indexarticles.php&titre_site=G&#233;n&#233;ral%20-%3E%20Articles" alt="Voir la liste des Articles">
+</map>
+<map name="Map6" id="Map6">
+    <area shape="rect" coords="111,3,181,17" href="http://www.4gamers-fr.com/forum/" target="_blank" alt="Aller sur le Forum">
+</map>
+<map name="Map7" id="Map7">
+    <area shape="rect" coords="3,3,94,16" href="?page=previews.php&titre_site=Previews" alt="Affichages des previews...">
+</map>
+<map name="Map8" id="Map8">
+    <area shape="rect" coords="5,3,57,17" href="?page=tests.php&titre_site=Tests" alt="Affichage des tests...">
+</map>
+<map name="Map9" id="Map9">
+    <area shape="rect" coords="3,3,73,17" href="?page=autresarticles.php&titre_site=Autres%20Articles" alt="Affichages des autres articles...">
+</map>
+</body>
+</html>

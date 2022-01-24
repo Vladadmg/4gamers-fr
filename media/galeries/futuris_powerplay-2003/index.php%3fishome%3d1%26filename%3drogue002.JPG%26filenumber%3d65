@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>4Gamers -> Galerie</title>
+<style>
+<!--
+<!--A:link {text-decoration: none; color: #999999; }-->
+<!--A:visited {text-decoration: none; color: #999999; }-->
+<!--A:active {text-decoration: none; color: #999999; }-->
+<!--A:hover {text-decoration: none; color: #CCCCCC; }-->
+<!--A.link {font-family: Arial; font-size=10pt;font-weight:bold; }-->
+-->
+</style>
+</head>
+
+<body bgcolor=#88B6DB>
+<div align=center><img src=http://www.4gamers-fr.com/design/4gamers.gif></div><br>
+<center>
+<table border=0 cellpadding=0 cellspacing=0><tr>
+<td valign=top><div align=center><img src=http://www.4gamers-fr.com/design/canon/canonHgalerie.png width=570></div></td></tr></table>
+<table border=1 cellpadding=8 cellspacing=0 bordercolor=#C8C8C8><tr>
+<td valign=top bgcolor=#FFFFFF><div style=font-family:Verdana; font-size=10pt;><div align=center>
+[<A HREF=index.php?ishome=1&filename=rogue001.JPG&filenumber=64> << Précédente</A>]  
+ &nbsp;&nbsp;[<A HREF=index.php>Mosaïque</A>]&nbsp;&nbsp;
+  
+[<A HREF=index.php?ishome=1&filename=rogue003.JPG&filenumber=66>Suivante >></A>]
+
+
+<p><IMG SRC=rogue002.JPG>
+<br><b>Image: rogue002.JPG </b></P>
+
+[<A HREF=index.php?ishome=1&filename=rogue001.JPG&filenumber=64> << Précédente</A>]  
+ &nbsp;&nbsp;[<A HREF=index.php>Mosaïque</A>]&nbsp;&nbsp;
+  
+[<A HREF=index.php?ishome=1&filename=rogue003.JPG&filenumber=66>Suivante >></A>]
+
+
+</div></div></td></tr></table></html>

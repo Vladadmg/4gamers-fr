@@ -1,0 +1,441 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>4Gamers -> Reportage:</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Voici LE site des fans de jeux videos tous supports, vous y trouverez les dernieres infos, des dossiers, tests, previews, forum et plein de surprises">
+<meta name="keywords" content="consoles, jeux, video, nintendo, sony, pc, doom, halflife, e3, micromania, show, fps, microsoft, emulation, nostalgie, gamecube, playstation, xbox, ngc, gameboy, ps, ps2, psone, forum, test, preview, mario, zelda, gt, link, project64, n64, psone, ff, tekken, pc, dead or alive, game, 4gamers">
+<meta name="author" content="CedFlow">
+<meta name="identifier-url" content="http://www.4gamers-fr.com">
+<meta name="reply-to" content="4gamers@4gamers-fr.com">
+<meta name="revisit-after" content=7 days">
+<meta name="robots" content="index, follow">
+<meta name="distribution" content="global">
+<meta name="copyright" content="4gamers-2003">
+<meta name="abstract" content="Voici LE site des fans de jeux videos tous supports, vous y trouverez les dernieres infos, des dossiers, tests, previews, forum et plein de surprises">
+
+<STYLE TYPE="text/css">
+body {
+scrollbar-face-color: #88B6DB;
+scrollbar-shadow-color: #C8DDEE;
+scrollbar-highlight-color: #59748D;
+scrollbar-3dlight-color: #D1D7DC;
+scrollbar-darkshadow-color: #88B6DB;
+scrollbar-track-color: #C8DDEE;
+scrollbar-arrow-color: #FFFFFF;}
+
+<!--A:link {text-decoration: none; color: #999999; }-->
+<!--A:visited {text-decoration: none; color: #999999; }-->
+<!--A:active {text-decoration: none; color: #999999; }-->
+<!--A:hover {text-decoration: none; color: #CCCCCC; }-->
+
+<!--A.lien:link {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:visited {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:active {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien{font-family:Arial ; font-size="10pt";font-weight:bold;}-->
+
+<!--A.lien2:link {text-decoration: none; color: #999999; }-->
+<!--A.lien2:visited {text-decoration: none; color: #999999; }-->
+<!--A.lien2:active {text-decoration: none; color: #999999; }-->
+<!--A.lien2:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien2 {font-family: Arial; font-size="10pt";font-weight:bold; }-->
+
+<!--A.lien3:link {text-decoration: none; color: #999999; }-->
+<!--A.lien3:visited {text-decoration: none; color: #999999; }-->
+<!--A.lien3:active {text-decoration: none; color: #999999; }-->
+<!--A.lien3:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien{font-family:Arial ; font-size="10pt"; }
+.Style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.Style2 {font-size: x-small}
+.Style3 {font-size: xx-small}
+-->
+</STYLE>
+
+</head>
+<body bgcolor="#88B6DB">
+<div align="center">
+  <table width="900" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img src="design/titre/titre2k5.gif" width="900" height="120"></td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="171" height="25" valign="top" background="design/BarreH.gif" bgcolor="#FFFFFF"><div align="left"><img src="design/AngleHG.gif" width="170" height="25"></div></td>
+      <td height="25" valign="top" background="design/BarreH.gif"><div align="left" class="lien"><span class="Style2"></span><strong>[ </strong><a href="index.php?page=ngc.php&titre_site=Nintendo%20Gamecube&consoles=ngc" class="lien">NGC</a><strong> | </strong><a href="index.php?page=ps2.php&titre_site=Sony%20PS2&consoles=ps2" class="lien">PS2</a><strong> | </strong><a href="index.php?page=xbox.php&titre_site=Microsoft%20Xbox&consoles=xbox" class="lien">XBox</a><strong> | </strong><a href="?page=portables.php&titre_site=Portables" class="lien">Portables</a><strong> | </strong><a href="index.php?page=pc.php&titre_site=PC" class="lien">PC </a><strong>| <a href="index.php?page=autres.php&titre_site=Emulation,%20Nostalgie%20et%20Autres..." class="lien">Autres</a> || </strong><a href="http://www.4gamers-fr.com/forum/" target="_blank" class="lien">Forum</a><strong> | </strong><a href="index.php?page=chat.php&titre_site=Venez%20chatter%20sur%204Gamers-fr" class="lien">Chat </a><strong>]</strong><span class="Style2"></span></div></td>
+      <td height="25" valign="top" background="design/BarreH.gif"><div align="right">
+          <div style="font-family:Verdana; font-size=10pt;font-weight:bold;">
+            <font size="-2" face="Arial, Helvetica, sans-serif">
+			Jeudi 13 Janvier 2005</font>
+          </div>
+      </div></td>
+      <td width="171" height="25" align="right" valign="top" background="design/BarreH.gif" bgcolor="#FFFFFF">
+        <div align="right"><img src="design/AngleHD.gif" width="170" height="25"></div></td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="30" align="center" valign="top" background="design/BarreG.gif"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="30" align="center"><p><br>
+                  <a href="javascript:window.external.addfavorite('http://www.4gamers-fr.com', '4Gamers -> Le site: 100% Jeux, 100% Gamers')"><img src="design/favoris.gif" alt="Ajouter 4Gamers-fr aux favoris..." width="20" height="20" border="0"></a><a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.4gamers-fr.com');"><img src="design/home.gif" alt="D&eacute;finir 4Gamers-fr comme page d'accueil..." width="20" height="20" border="0"></a><a href="#" OnClick="javascript:window.print()"><img src="design/imprimante.gif" alt="Imprimer cette page..." width="20" height="20" border="0"></a><br>
+                  <br>
+            </p></td>
+          </tr>
+          <tr>
+            <td width="30" align="right"><img src="design/onglet/ongletarticles.gif" width="25" height="515" border="0" usemap="#Map">
+</td>
+          </tr>
+        </table>      </td>
+      <td align="center" valign="top" bgcolor="#FFFFFF">
+	  <!-- Page principale -->
+
+      <table width="100%"  border="0" cellspacing="14" cellpadding="0">
+        <tr>
+          <td width="65%" align="center" valign="top"><div align="center">
+              <div align="center">
+        <style type="text/css">
+<!--
+.Style2 {font-size: -2}
+-->
+</style>
+<div align="center">
+  <table width="570" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top"><div align="center"><img src="design/canon/canonHarticles.png" width="570" height="19"></div></td>
+    </tr>
+  </table>  <table width="570" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+    <tr>
+      <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+      09/10/2003 <b>[Autre][Multi]</b> - <b>Reportage: Salon Micromania</b> <font size="-2">par <a href="mailto:cedflow@4gamers-fr.com?subject=Reportage: Salon Micromania" class=lien3>CedFlow</a></font><p><font size="-2">Introduction:</font><br><table width="100%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8"><tr><td valign="top" bgcolor="#FFFFFF"><div style="font-family:Verdana; font-size=10pt;"><div align=justify>Comme l’an dernier, Micromania organisa dimanche dernier un grand salon consacré aux jeux-vidéos à leurs meilleurs clients.<br />
+	Ayant reçu deux places, nous avons donc décidé  avec Biloot d’aller y tester les prochains qui sortiront sur tous les supports (j’en connais qui auraient voulu faire partie de l’aventure, AtchoumLeChove si tu nous écoutes <img src="images/s7.gif" border="0"> ).<br />
+	Nos places étaient donc valables le dimanche 5 octobre à partir de 14h00 et jusqu’à 19h00. Nous sommes arrivés là-bas sur les coups de 12h30 et nous étions dans la salon pour 13h45 (les heures d’entrées n’étaient pas vraiment surveillées, et de toute façon je connaissais la personne qui vérifiait les billets <img src="images/s7.gif" border="0"> ).</div></div></td></tr></table><p><div align="justify">Voici le lien vers la galerie des photos: <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/ target="_blank">Lien >></a><br />
+<br />
+Les vidéos sont à la fin de l'article...<br />
+<br />
+ <p align="center"> <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Billet_Entree.JPG&filenumber=10 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Billet_Entree.JPG border=0></a>   <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Entree_MGS.JPG&filenumber=37 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Entree_MGS.JPG border=0></a>  </p><br />
+<br /><br />
+Une fois à l’intérieur du salon, nous avons tous les deux été conquis par l’ambiance qui y régnait. Des spots dans tous les sens, de la musique à donf, avec des speakers et surtout des bornes partout. Pour se mettre dans le bain Biloot et moi-même sommes partis faire un tour du propriétaire et ainsi repérer où étaient les bornes les plus intéressantes, celles où il y avait le plus de monde, les différentes animations.<br />
+	Nous avons de suite repéré les sièges baquets avec volant retour de force de GT4 et de F-Zero, puis les karts de Mario Kart : Double Dash, et l’écran géant où auraient lieu les différentes présentations de jeux.<br />
+<br /><br />
+	Nous avons donc décidé de jeter notre dévolue sur les différentes bornes, voici donc ce que nous avons testé, et ce que nous en avons pensé :<br />
+<br /><br />
+-<b>1080° avalanche :</b> En mode 1 joueur le jeu est plutôt pas mal réussi graphiquement bien qu’il n’y ait pas énormément de détails qui grouillent dans les décors, ce qui est en partie compensé par de très jolis effets (neige, reflets,…), la maniabilité est proche du premier épisode c’est-à-dire très bonne, avec en plus une petite jauge de stabilité pour les réceptions un peu loupées, donc notre impression est plutôt positive. En mode 2 joueurs, moins de détails sont affichés, mais le jeu reste identique.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=1080_002.JPG&filenumber=2 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%201080_002.JPG border=0></a>   <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=1080_003.JPG&filenumber=3 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%201080_003.JPG border=0></a>  </p> <br />
+<br /><br />
+<br /><br />
+-<b>Beyond good and evil :</b> Ce jeu d’aventure m’a fortement fait penser à Starfox Adventure, ce qui est une comparaison plutôt flatteuse, à première vue techniquement c’est pas mal du tout, la maniabilité est bonne, mais pour un jeu de ce type il est difficile de porter un jugement sans avoir plus d’indications sur le contenu (scénario, et déroulement des différentes phases de jeu).<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Beyond_001.JPG&filenumber=6 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Beyond_001.JPG border=0></a>   <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Beyond_002.JPG&filenumber=7 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Beyond_002.JPG border=0></a>  </p> <br />
+<br /><br />
+<br /><br />
+-<b>F-Zero :</b> C’est un de mes gros coups de cœur du salon, pour faire court je dirais que c’est très beau, très rapide et très maniable. Même si au début on se fait surprendre par la rapidité, au bout d’une ou deux courses on commence à se débrouiller et à aller encore plus vite. Nous n’avons malheureusement pas pu tester la borne d’arcade qui d’après ceux qui l’ont testé est encore plus forte grâce au siège qui bouge.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=F-Zero_001.JPG&filenumber=38 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20F-Zero_001.JPG border=0></a>   <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=F-Zero_002.JPG&filenumber=39 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20F-Zero_002.JPG border=0></a>  </p><br />
+<br /><br />
+<br /><br />
+-<b>GT4 :</b> Voici mon deuxième gros coup de cœur du salon, graphiquement comme vous vous en doutez c’est magnifique (surtout les voitures), malgré un scintillement omniprésent à cause de l’aliasing, les sensations de conduites sont géniales, surtout avec le volant retour de force.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=GT4_009.JPG&filenumber=53 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20GT4_009.JPG border=0></a>   <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=GT4_001.JPG&filenumber=45 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20GT4_001.JPG border=0></a>  </p><br />
+<br /><br />
+<br /><br />
+-<b>Mario 3 :</b> La conversion GBA SP est très fidèle et la maniabilité bien adaptée au nouveau support.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Mario3_002.JPG&filenumber=64 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Mario3_002.JPG border=0></a>  </p><br />
+<br /><br />
+<br /><br />
+-<b>Rogue Leader III :</b> Là on se prend une claque graphique, c’est magnifique, là aussi un gros regret, il n’y avait qu’un seul niveau jouable et ça n’était sûrement pas le meilleur, mais il nous a permis de tester les phases à pied, qui sont plutôt une bonne surprise, car je m’attendais à un petit loupé. Ce n’est pas un coup de cœur pour moi car nous n’avons pas testé les niveaux avec les vaisseaux donc je suis resté sur ma faim.<br /><br />
+-Topgear Rally : Pour un jeu de caisse sur portables on peu dire que c’est vraiment très bien, le moteur physique est plutôt réussit pour de la 2D (suspensions, poids du véhicule, vitesse et autres…), en effet même si les décors paraissent en partie en 3D, les véhicules sont en scrolling très bien rendu.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=RogueLeader_004.JPG&filenumber=81 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20RogueLeader_004.JPG border=0></a>   <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=RogueLeader_006.JPG&filenumber=83 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20RogueLeader_006.JPG border=0></a>  </p><br />
+<br /><br />
+<br /><br />
+-<b>Twin Snake :</b> Par rapport à la version PSOne, on remarque de meilleur interactivité avec les décors et les ennemis et évidemment de meilleur graphismes, la démo était là aussi trop courte pour mieux juger.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=MetalGearTwin_002.JPG&filenumber=71 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20MetalGearTwin_002.JPG border=0></a>  </p><br />
+<br /><br />
+<br /><br />
+-<b>XIII :</b> Graphiquement ce jeu est une réussite, nous n’avons pas pus le tester bien longtemps, et nous avons donc eu du mal à nous accoutumer a jouer à un FPS sur une manette.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=XIII_001.JPG&filenumber=109 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20XIII_001.JPG border=0></a>  </p><br />
+<br /><br />
+<br /><br />
+Ensuite, nous nous sommes installés au premier rang pour assister à toutes les présentations des jeux à venir. Et les jeux qui nous ont marqués, de toutes les présentations que nous avons pu voir, sont :<br />
+<br /><br />
+-<b>MarioKart :</b> Ce jeu va être à coup sur une réussite, même si techniquement ce n’est pas une tuerie, la qualité graphique colle au style. Le gameplay a l’air génial, le jeu est très dynamique, et nous y passeront des nuits et des journées à y jouer entre amis quand il sera sorti notamment grâce à l’option « jeu en réseau ». En tout cas l’animateur de la scène a demandé à plusieurs reprises au publique (dont nous faisions partie) quel jeu les gens avaient préféré sur le salon et la plupart des gens répondaient MarioKart qui a apparemment marqué ce salon.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=MarioKart_004.JPG&filenumber=68 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20MarioKart_004.JPG border=0></a>   <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=MarioKart_003.JPG&filenumber=67 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20MarioKart_003.JPG border=0></a>  </p><br />
+<br /><br />
+<br /><br />
+-<b>Prince of Persia :</b> Qui est un jeu de plate-formes aventure très dynamique, la prise en mains semble très bonne malgré toutes les possibilités offertes par le gameplay très riche du jeu (marcher sur les murs, s’accrocher à toutes les corniches, les sauts, les combats, les combos,…). Graphiquement le jeu paraît très réussi, par contre il sera au début du moins une exclusivité PS2.<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Jakette_PrinceofPersia.JPG&filenumber=61 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Jakette_PrinceofPersia.JPG border=0></a>  </p><br />
+<br /><br />
+<br /><br />
+-<b>Freestyle Street Soccer :</b> Ce jeu d’Acclaim m’a marqué car en pleine démonstration sur PS2 il a planté, ce qui a obligé le testeur à redémarrer la PS2 et l’animateur à meubler, et à défendre Acclaim en disant qu’au salon les jeux présentés étaient des versions beta (ce qui est tout à fait vrai, mais cela nous a quand même bien fait rigoler, Bilbot si tu nous écoutes, ton Windows a fait des émules <img src="images/s7.gif" border="0"> ). Plus sérieusement c’était un des seuls jeux que nous avons vu qui nous a vraiment déçus, le gameplay paraissait pauvre, les mouvements moyennement décomposés, et une atmosphère mal retranscrite, seul point fort Acclaim avait organisé un street soccer sur le parking avec plein de personnalités: Mc Solaar, Fred de Fred et Omar), ….il y avait même l’équipe de GameOne dont les présentateurs couraient partout sur le terrain pour défendre leurs chances.<br />
+<br /><br />
+<br /><br />
+Pour les autres présentations, ce sont des jeux que nous avons pu tester, ou qui n’ont pas retenu notre attention (comme un jeu de catch de THQ).<br />
+<br /><br />
+Voici quelques images du salon:<br />
+<br /><br />
+ <p align="center">  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Salon_001.JPG&filenumber=85 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Salon_001.JPG border=0></a>  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Salon_007.JPG&filenumber=91 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Salon_007.JPG border=0></a> </p><br />
+<br /><br />
+<br /><br />
+Voici le lien vers la galerie de photos du salon:<br />
+ <a href= http://www.4gamers-fr.com/media/galeries/MG-2003/  target="_blank">Lien >></a> <br />
+<br /><br />
+<br /><br />
+Et voici les vidéos:<br />
+1080°: <a href= http://www.4gamers-fr.com/media/autres/MGS/1080_avalanche.MOV  target="_blank">Lien >></a> <br />
+F-Zero:  <a href= http://www.4gamers-fr.com/media/autres/MGS/F-Zero_003.MOV  target="_blank">Lien >></a> <br />
+F-Zero(2):  <a href= http://www.4gamers-fr.com/media/autres/MGS/F-Zero_004.MOV  target="_blank">Lien >></a> <br />
+Fifa 2004:  <a href= http://www.4gamers-fr.com/media/autres/MGS/FIFA2004.MOV  target="_blank">Lien >></a> <br />
+GT4:<br />
+ <a href= http://www.4gamers-fr.com/media/autres/MGS/GT4_001.MOV  target="_blank">Lien >></a><br />
+ <a href= http://www.4gamers-fr.com/media/autres/MGS/GT4_002.MOV  target="_blank">Lien >></a><br />
+ <a href= http://www.4gamers-fr.com/media/autres/MGS/GT4_demo_001.MOV  target="_blank">Lien >></a><br />
+ <a href= http://www.4gamers-fr.com/media/autres/MGS/GT4_demo_002.MOV  target="_blank">Lien >></a><br />
+MarioKart:  <a href= http://www.4gamers-fr.com/media/autres/MGS/MarioKartDD_001.MOV  target="_blank">Lien >></a><br />
+MarioKart(2):  <a href= http://www.4gamers-fr.com/media/autres/MGS/MarioKartDD_002.MOV  target="_blank">Lien >></a><br />
+MawPayne 2:  <a href= http://www.4gamers-fr.com/media/autres/MGS/MaxPayne2_001.MOV  target="_blank">Lien >></a><br />
+MaxPayne 2(2):  <a href= http://www.4gamers-fr.com/media/autres/MGS/MaxPayne2_002.MOV  target="_blank">Lien >></a><br />
+Prince of Persia:  <a href= http://www.4gamers-fr.com/media/autres/MGS/prince_of_persia_001.MOV  target="_blank">Lien >></a><br />
+Prince of Persia(2):  <a href= http://www.4gamers-fr.com/media/autres/MGS/prince_of_persia_002.MOV  target="_blank">Lien >></a> </div><br><p><font size="-2">Conclusion:</font><br><table width="100%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8"><tr><td valign="top" bgcolor="#FFFFFF"><div style="font-family:Verdana; font-size=10pt;"><div align=justify>Pour Conclure sur ce salon, je dirais que Micromania a fait les choses comme il faut, avec un bon nombre de nouveautés, d’animations, de bornes (sauf pour MarioKart où il n’y en avait pas assez, donc nous n’avons pas pu le tester). L’ambiance était très bonne, sauf lors des lâchés de T-Shirt où là c’était l’émeute pour récupérer des goodies. Je dirais personnellement que j’ai préféré cette édition par rapport à celle de l’année dernière qui avait lieu au Stade de France, donc si tous les ans ils s’améliorent, attendons avec impatience celui de l’année prochaine. En tout cas grâce à Micromania, nous bénéficions enfin d’un salon en France.<br />
+<br /><br />
+Photos Cadeaux, Biloot et moi même en train de s'éclater à GT4:<br />
+<br /><br />
+<p align="center"><a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=Biloot_GT4_001.JPG&filenumber=16 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20Biloot_GT4_001.JPG border=0></a>  <a href=http://www.4gamers-fr.com/media/galeries/MG-2003/index.php?ishome=1&filename=CedFlow_GT4_003.JPG&filenumber=29 target=_blank><img src=http://www.4gamers-fr.com/media/galeries/MG-2003/miniatures/Resize%20of%20CedFlow_GT4_003.JPG border=0></a> </p><br />
+<br /><br />
+Biloot est à gauche et moi à droite <img src="images/s7.gif" border="0"></div></div></td></tr></table><div align=right>&gt;&gt; <a href="http://www.4gamers-fr.com/forum/index.php?c=6&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class=lien>Commenter cet article sur le Forum</a> &gt;&gt;<font size="-2"><br> - Posté à : 13:43 - </font></div></div>      </td>
+    </tr>
+  </table>
+  <table width="570" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3">Haut</a> ^</font></div>
+        <div align="left" class="Style2"></div></td>
+    </tr>
+  </table>
+  <script language="JavaScript1.1">
+		<!--
+		hsh = new Date();
+		hsd = document;
+		hsr = hsd.referrer.replace(/[<>]/g, '');
+		hsi = '<a href="http://www.xiti.com/xiti.asp?s=123018"';
+		hsi += ' TARGET="_top"><img width="39" height="25" border=0 ';
+		hsi += 'src="http://logv23.xiti.com/hit.xiti?s=123018';
+		hsi += '&p=Article';
+		hsi += '&hl=' + hsh.getHours() + 'x' + hsh.getMinutes() + 'x' + hsh.getSeconds();
+		if(parseFloat(navigator.appVersion)>=4)
+		{Xiti_s=screen;hsi += '&r=' + Xiti_s.width + 'x' + Xiti_s.height + 'x' + Xiti_s.pixelDepth + 'x' + Xiti_s.colorDepth;}
+		hsd.writeln(hsi + '&ref=' + hsr.replace(/&/g, '$') + '" title="Mesurez votre audience"></a><\!--');
+		//-->
+	</script>
+  </p>
+  <noscript>
+  <a href="http://www.xiti.com/xiti.asp?s=123018" TARGET="_top"><img width="39" height="25" border=0 src="http://logv23.xiti.com/hit.xiti?s=123018&p=&" title="Mesurez votre audience"></a>
+  </noscript>
+  <!--//-->
+  <A HREF=http://www.hit-parade.com/hp.asp?site=a366807 TARGET=_top><br>
+<IMG SRC=http://loga.hit-parade.com/logohp1.gif?site=a366807 TITLE="Hit-Parade" WIDTH=77 HEIGHT=15 BORDER=0></A></div>
+</div>
+              </div></td>
+          <td width="35%" align="center" valign="top"><div align="center">
+		  	              <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHdownload.gif" width="220" height="19" border="0" usemap="#Map4"></div></td>
+                </tr>
+              </table>
+              <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+                <tr>
+                  <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+                      <b>[<font color=#0033FF>PS2</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1623.txt&titre_site=L'intro de Tekken V class=lien2>L'intro de Tekken V</a><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1610.txt&titre_site=Vidéo de Resident Evil 4 class=lien2>Vidéo de Resident Evil 4</a><br><b>[<font color=#666666>N</font><font color=#0033FF>DS</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1574.txt&titre_site=Galerie de photos de la Nintendo DS class=lien2>Galerie de photos de la Nintendo DS</a><br><b>[<font color=#666666>N</font><font color=#0033FF>DS</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1533.txt&titre_site=Vidéos Ridge Racer DS class=lien2>Vidéos Ridge Racer DS</a><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1511.txt&titre_site=Trailer Viewtiful Joe 2 class=lien2>Trailer Viewtiful Joe 2</a><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1510.txt&titre_site=Trailer GTA : San Andreas class=lien2>Trailer GTA : San Andreas</a><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1508.txt&titre_site=Nouvelle Démo pour  RollerCoaster Tycoon 3 class=lien2>Nouvelle Démo pour  RollerCoaster Tycoon 3</a><br><b>[<font color=#FFFFFF>Multi</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1498.txt&titre_site=Vidéo Fifa Street class=lien2>Vidéo Fifa Street</a><br>                  </div></td>
+                </tr>
+              </table>
+            </div>
+              <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+                  <td width="50%" valign="top"><div align="right"><font size="-2" face="Arial, Helvetica, sans-serif">&gt;<a href="?page=indexnews.php&titre_site=G%E9n%E9ral%20-%3E%20News" class="lien3 Style3"> Suite </a> &gt;</font></div></td>
+                </tr>
+              </table>
+			                <br>
+              <font size="-1"><span class="Style1">R&eacute;digez vos articles, ils seront<br>
+      sur 4Gamers-fr !!!</span><br>
+      <a href="http://4gamers.free.fr/courrier.htm" target="_blank" class="lien2">&lt;&lt; ICI &gt;&gt;</a> </font> <br>
+      		<br>
+	  <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHarticles.gif" width="220" height="19" border="0" usemap="#Map5"></div></td>
+        </tr>
+      </table>
+      <div align="center">
+        <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+          <tr>
+            <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+            <div align="center">
+                <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDpreviews.gif" width="120" height="20" border="0" usemap="#Map7"></td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=index.php?page=articles.php&numnews=mes81.txt&titre_site=Winning Eleven 8 class=lien2>Winning Eleven 8</a><br>- <a href=index.php?page=articles.php&numnews=mes66.txt&titre_site=Nouveautés PS2 class=lien2>Nouveautés PS2</a><br>- <a href=index.php?page=articles.php&numnews=mes13.txt&titre_site=James Bond : Quitte ou Double class=lien2>James Bond : Quitte ou Double</a><br>                    </td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDtests.gif" width="120" height="20" border="0" usemap="#Map8"></td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=index.php?page=articles.php&numnews=mes89.txt&titre_site=Nintendo DS class=lien2>Nintendo DS</a> <img src=images/pop.gif width=23 height=11><br>- <a href=index.php?page=articles.php&numnews=mes88.txt&titre_site=Dragon Ball Z Budokaï 3 class=lien2>Dragon Ball Z Budokaï 3</a> <img src=images/pop.gif width=23 height=11><br>- <a href=index.php?page=articles.php&numnews=mes86.txt&titre_site=Pro Evolution Soccer 4 class=lien2>Pro Evolution Soccer 4</a> <img src=images/pop.gif width=23 height=11><br>- <a href=index.php?page=articles.php&numnews=mes78.txt&titre_site=FarCry : Enfin du DirectX 9 class=lien2>FarCry : Enfin du DirectX 9</a><br>- <a href=index.php?page=articles.php&numnews=mes77.txt&titre_site=Final Fantasy : Christal Chronicles mode multi joueurs class=lien2>Final Fantasy : Christal Chronicles mode multi joueurs</a><br>                    </td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDautres.gif" width="120" height="20" border="0" usemap="#Map9">                        </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=index.php?page=articles.php&numnews=mes82.txt&titre_site=Game On class=lien2>Game On</font></a><br>- <a href=index.php?page=articles.php&numnews=mes80.txt&titre_site=CyberUniCup 04 class=lien2>CyberUniCup 04</font></a><br>- <a href=index.php?page=articles.php&numnews=mes54.txt&titre_site=De l’argent a dépenser ?? ... Bons titres à se procurer class=lien2>De l’argent a dépenser ?? ... Bons titres à se procurer</font></a><br>- <a href=index.php?page=articles.php&numnews=mes40.txt&titre_site=CD Rom Virtuels class=lien2>CD Rom Virtuels</font></a><br>- <a href=index.php?page=articles.php&numnews=mes38.txt&titre_site=Emulation N64 class=lien2>Emulation N64</font></a><br>                    </td>
+                  </tr>
+                </table></div>
+            </div></td>
+          </tr>
+        </table>
+      </div>
+      <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+          <td width="50%" valign="top"><div align="right"><font size="-2" face="Arial, Helvetica, sans-serif">&gt;<a href="?page=indexnews.php&titre_site=G%E9n%E9ral%20-%3E%20News" class="lien3 Style3"> Suite </a> &gt;</font></div></td>
+        </tr>
+      </table>
+	        <map name="Map3" id="Map3">
+        <area shape="rect" coords="40,1,97,21" href="index.php?page=indexnews.php&titre_site=G&#233;n&#233;ral%20-%3E%20News" alt="Voir la liste des News">
+      </map>            <br>
+      <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHForum.gif" width="220" height="19" border="0" usemap="#Map6Map"></div></td>
+        </tr>
+      </table>
+      <div align="center">
+        <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+          <tr>
+            <td align="center" valign="top" bgcolor="#C8DDEE"><table width="95%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=6&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum G&eacute;n&eacute;ral</a></td>
+                  <td width="100" align="left">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=1&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum Consoles :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=1&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Gamecube</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=2&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Playstation2</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=3&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Xbox</a></td>
+                </tr>
+                <tr>
+                  <td align="left">&nbsp;</td>
+                  <td align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=5" target="_blank" class="lien3">Portables</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=4&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Autres</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=7" target="_blank" class="lien2">Forum PC :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=11" target="_blank" class="lien3">Jeux</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=12" target="_blank" class="lien3">Hardware</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=3&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum Nostalgie :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=7&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">G&eacute;n&eacute;ral</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=8&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Emulation</a></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+          </tr>
+        </table>
+      </div>
+      <map name="Map6Map" id="Map62">
+        <area shape="rect" coords="111,3,181,17" href="http://www.4gamers-fr.com/forum/" target="_blank" alt="Aller sur le Forum">
+      </map>      <br>
+      	        </td>
+        </tr>
+      </table>
+</td>
+      <td width="1" background="design/CoteD.gif" bgcolor="#FFFFFF">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="150" height="22" valign="top" background="design/basG.png">&nbsp;</td>
+      <td width="20" height="22" align="left" valign="top" background="design/bas.png"><div align="left"><img src="design/basangleG.png" width="20" height="22"></div></td>
+      <td width="350" height="22" align="left" valign="bottom" background="design/bas.png"><div align="right"><img src="design/barrebas2.gif" width="70" height="22"></div></td>
+      <td width="210" height="22" align="right" valign="baseline" background="design/bas.png"><font size="-1" face="Arial, Helvetica, sans-serif">Design<font color="#CCCCCC"> &amp;</font> PHP <font color="#CCCCCC">by</font>
+        <script language="JavaScript">
+		<!--
+		var name = "cedflow";
+		var domain = "4gamers-fr.com";
+		document.write('<a href="mailto:' + name + '@' + domain + '" class="lien">');
+		document.write('CedFlow</a>');
+		// -->
+		</script>
+      </font></td>
+      <td height="22" align="right" valign="top" background="design/bas.png"><div align="right"><img src="design/barrebas2.gif" width="70" height="22"><img src="design/basV.png" width="1" height="22"></div></td>
+    </tr>
+  </table>
+  <br>
+  <span class="Style2">Toute copie partielle ou totale de ce site est interdite.<br>
+&copy; 2001-2004 4Gamers-fr est optimis&eacute; pour<br>
+le 1024x768 </span><span class="Style3">(4Gamers version 3.1)
+<br>Page générée en: 0.53882813453674 secondes</span></div>
+<map name="Map">
+    <area shape="poly" coords="5,2,22,2,22,60,5,47" href="?page=accueil.php&titre_site=Le%20site:%20100%25%20Jeux,%20100%25%20Gamers">
+    <area shape="poly" coords="4,62,22,62,23,122,5,108" href="?page=indexnews.php&titre_site=G&#233;n&#233;ral%20-%3E%20News" alt="Voir la liste des News">
+    <area shape="poly" coords="5,121,22,123,22,194,5,180,6,183" href="?page=indexarticles.php&titre_site=G&#233;n&#233;ral%20-%3E%20Articles" alt="Voir la liste des Articles">
+    <area shape="poly" coords="5,194,22,195,23,293,7,278" href="?page=download.php&titre_site=G&#233;n&#233;ral%20-%3E%20Telechargements" alt="Voir la liste des T&eacute;l&eacute;chargements">
+    <area shape="poly" coords="6,370,24,370,23,429,5,416" href="?page=equipe.php&titre_site=G&#233;n&#233;ral%20-%3E%20Equipe" alt="">
+    <area shape="poly" coords="6,430,23,431,23,506,6,492" href="?page=edito.php&titre_site=G&#233;n&#233;ral%20-%3E%20Edito">
+    <area shape="poly" coords="5,295,24,297,22,368,5,355" href="?page=boutique.php&titre_site=G&#233;n&#233;ral%20-%3E%20Boutique%20en%20Ligne">
+</map>
+<map name="Map4" id="Map4">
+    <area shape="rect" coords="55,2,183,17" href="index.php?page=download.php&titre_site=G&#233;n&#233;ral%20-%3E%20Telechargements" alt="Voir la liste des T&eacute;l&eacute;chargements">
+</map>
+<map name="Map5" id="Map5">
+    <area shape="rect" coords="96,2,182,17" href="index.php?page=indexarticles.php&titre_site=G&#233;n&#233;ral%20-%3E%20Articles" alt="Voir la liste des Articles">
+</map>
+<map name="Map6" id="Map6">
+    <area shape="rect" coords="111,3,181,17" href="http://www.4gamers-fr.com/forum/" target="_blank" alt="Aller sur le Forum">
+</map>
+<map name="Map7" id="Map7">
+    <area shape="rect" coords="3,3,94,16" href="index.php?page=previews.php&titre_site=Previews" alt="Affichages des previews...">
+</map>
+<map name="Map8" id="Map8">
+    <area shape="rect" coords="5,3,57,17" href="index.php?page=tests.php&titre_site=Tests" alt="Affichage des tests...">
+</map>
+<map name="Map9" id="Map9">
+    <area shape="rect" coords="4,3,74,17" href="index.php?page=autresarticles.php&titre_site=Autres%20Articles" alt="Affichages des autres articles...">
+</map>
+</body>
+</html>

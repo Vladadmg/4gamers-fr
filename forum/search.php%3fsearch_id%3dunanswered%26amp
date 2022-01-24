@@ -1,0 +1,452 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="LTR">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css"></head>
+
+<link rel="top" href="./index.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb" title="--------=={ www.4gamers-fr.com }==-------- Index du Forum" />
+<link rel="search" href="./search.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb" title="Rechercher" />
+<link rel="help" href="./faq.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb" title="Liste des Membres" />
+
+<title>--------=={ www.4gamers-fr.com }==-------- :: Rechercher</title>
+<style type="text/css">
+<!--
+/*
+  Theme for phpBB version 2+
+  Created by Wabisurf.net
+  http://www.wabisurf.net
+*/
+body { scrollbar-face-color: #8CB6D4; scrollbar-highlight-color: #FFFFFF; scrollbar-arrow-color:  #FFFFFF; scrollbar-track-color: #EAF5FD; scrollbar-darkshadow-color: #98AAB1;
+}
+
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #28CBF4; }
+hr	{ height: 0px; border: solid #CBE6F9 0px; border-top-width: 1px;}
+
+.bodyline	{ background-color: #FFFFFF; border: 1px #AEBDC4 solid; }
+
+.forumline	{ background-color: #FFFFFF; border: 2px #A7B9D1 solid; }
+.forumline1	{ border: 1px #B8D7ED solid; }
+
+td.row1	{ background-color: #EAF5FD; }
+td.row2	{ background-color: #DBEBF6; }
+td.row3	{ background-color: #CBE6F9; }
+
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/smileblue/images/wspic2.jpg);
+		background-repeat: repeat-y;
+}
+
+th	{
+	color: #FFFFFF; font-size: 11px; font-weight : bold;
+	background-color: #8CB6D4; height: 25px;
+	background-image: url(templates/smileblue/images/wspic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/smileblue/images/wspic1.gif);
+			background-color:#DBEBF6; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: #CBE6F9; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+.maintitle	{
+	font-weight: bold; font-size: 12px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+.gen { font-size : 11px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #28CBF4; text-decoration: underline; }
+
+.cattitle		{ font-weight: bold; font-size: 11px; letter-spacing: 1px; color : #006699}
+a.cattitle		{ text-decoration: none; color : #4A6E8A; }
+a.cattitle:hover{ text-decoration: underline; }
+
+.forumlink		{ font-weight: bold; font-size: 11px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #28CBF4; }
+
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+a.nav			{ text-decoration: none; color : #006699; }
+a.nav:hover		{ text-decoration: underline; }
+
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #28CBF4; }
+
+.name			{ font-size : 11px; color : #000000;}
+
+.postdetails		{ font-size : 10px; color : #000000; }
+
+.error                  { font-size : 11px; color : #006699; }
+
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+code {
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #14719C;
+	background-color: #FAFAFA; border: #91C6EB; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #14719C; line-height: 125%;
+	background-color: #FAFAFA; border: #91C6EB; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+input,textarea, select {
+	color : color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+input.button {
+	background-color : #EFEFEF;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+.helpline { background-color: #DBEBF6; border-style: none; }
+.admin		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #006699; letter-spacing: -1px;}
+
+body { background-color: #A0C2D8;
+}
+
+@import url("templates/subSilver/formIE.css");
+-->
+</style>
+</head>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	              <tr>
+	        <td class="bodyline"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="forumline">
+	              <tr>
+		<td background="templates/smileblue/images/b_h2.gif" height="122" valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+		<td valign="top"><img src="templates/smileblue/images/logo.jpg" width="260" height="120" border="0" usemap="#Map2"></td>
+		        <td width="100%" align="center" background="templates/smileblue/images/_logobg.gif"><img src="templates/smileblue/images/menu.gif" width="471" height="120" usemap="#Map" border="0">
+                </td>
+		</tr>
+	</table>
+	</td>
+	   </tr>
+	</table>
+	    <br />
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="bottom"><span class="maintitle">54 résultats trouvés</span><br /></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left"><span class="nav"><a href="index.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="nav">--------=={ www.4gamers-fr.com }==-------- Index du Forum</a></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellpadding="4" cellspacing="1" border="0" class="forumline" align="center">
+  <tr>
+	<th width="4%" height="25" class="thCornerL" nowrap="nowrap">&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Forum&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Sujets&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Auteur&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Réponses&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Vus&nbsp;</th>
+	<th class="thCornerR" nowrap="nowrap">&nbsp;Derniers Messages&nbsp;</th>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=10&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Général</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=243&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">JOYEUX NOËL !!!!</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">cedflow</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">6</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Ven Déc 24, 2004 11:54 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">cedflow</a> <a href="viewtopic.php?p=1160&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1160"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Tchatch</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=242&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">Petit concour gagner un manège</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=82&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">pacman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">12</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mer Déc 22, 2004 8:31 pm<br /><a href="profile.php?mode=viewprofile&amp;u=82&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">pacman</a> <a href="viewtopic.php?p=1159&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1159"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=11&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Jeux</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=241&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">Recherche modeler/texturer</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=82&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">pacman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">6</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Déc 21, 2004 8:54 pm<br /><a href="profile.php?mode=viewprofile&amp;u=82&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">pacman</a> <a href="viewtopic.php?p=1158&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1158"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=2&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">PS2</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=229&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">ps2 occaz</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=66&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">la ligne</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">87</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mer Juil 21, 2004 8:59 pm<br /><a href="profile.php?mode=viewprofile&amp;u=66&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">la ligne</a> <a href="viewtopic.php?p=1102&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1102"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=4&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Autres...</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=228&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">Game fan n°2</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=56&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Logan</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">51</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Juil 20, 2004 8:10 am<br /><a href="profile.php?mode=viewprofile&amp;u=56&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Logan</a> <a href="viewtopic.php?p=1098&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1098"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=10&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Général</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=221&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">arrière-plan foot pour msn messenger</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=61&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">angel9</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">73</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Lun Juin 21, 2004 1:31 pm<br /><a href="profile.php?mode=viewprofile&amp;u=61&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">angel9</a> <a href="viewtopic.php?p=1079&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1079"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=8&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Emulation</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=219&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">Emulation dc</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=56&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Logan</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">75</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Juin 15, 2004 8:50 pm<br /><a href="profile.php?mode=viewprofile&amp;u=56&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Logan</a> <a href="viewtopic.php?p=1060&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1060"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=11&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Jeux</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=215&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">Pso sur pc :D</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=56&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Logan</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">93</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Juin 15, 2004 6:38 pm<br /><a href="profile.php?mode=viewprofile&amp;u=56&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Logan</a> <a href="viewtopic.php?p=1056&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1056"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder_lock.gif" width="19" height="18" alt="Ce sujet est verrouillé, vous ne pouvez pas éditer les messages ou faire de réponses." title="Ce sujet est verrouillé, vous ne pouvez pas éditer les messages ou faire de réponses." /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=10&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Général</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Annonce:</b> <a href="viewtopic.php?t=213&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">PUB PUCES !!</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">83</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sam Juin 05, 2004 2:00 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a> <a href="viewtopic.php?p=1045&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1045"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=10&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Général</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=210&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">Suggestion pour 4GAMERS</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=46&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">SwapFilez</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">61</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mer Mai 26, 2004 2:09 pm<br /><a href="profile.php?mode=viewprofile&amp;u=46&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">SwapFilez</a> <a href="viewtopic.php?p=1036&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1036"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Tchatch</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=209&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">Lan party</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=56&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Logan</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">47</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mer Mai 19, 2004 3:51 pm<br /><a href="profile.php?mode=viewprofile&amp;u=56&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Logan</a> <a href="viewtopic.php?p=1025&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#1025"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=3&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">XBox</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=204&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">[E3] Conférence de Presse E3 XBox [E3]</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">cedflow</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">95</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mer Mai 12, 2004 12:27 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">cedflow</a> <a href="viewtopic.php?p=996&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#996"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=10&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Général</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=203&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">CyberUniCup 2004 il reste des places</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">cedflow</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">59</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mer Mai 12, 2004 10:17 am<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">cedflow</a> <a href="viewtopic.php?p=991&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#991"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Portables</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=201&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">[E3] Pictograph [E3]</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">51</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Mai 11, 2004 9:03 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a> <a href="viewtopic.php?p=984&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#984"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Gamecube</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=196&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">[E3] DK: Jungle Beat [E3]</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">69</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Mai 11, 2004 8:49 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a> <a href="viewtopic.php?p=979&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#979"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Gamecube</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=195&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">[E3] Metroid Prime2 : Echoes [E3]</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">79</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Mai 11, 2004 8:47 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a> <a href="viewtopic.php?p=978&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#978"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Gamecube</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=194&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">[E3] Advance Wars: Under Fire [E3]</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">67</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Mai 11, 2004 8:45 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a> <a href="viewtopic.php?p=977&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#977"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Gamecube</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=193&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">[E3] Geist [E3]</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">73</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Mai 11, 2004 8:43 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a> <a href="viewtopic.php?p=976&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#976"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=10&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">Général</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=189&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">[E3] Nouveau jeux Nintendo  [E3]</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">110</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mar Mai 11, 2004 5:06 am<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">AtchoumLeChove</a> <a href="viewtopic.php?p=958&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#958"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smileblue/images/folder.gif" width="19" height="18" alt="Pas de nouveaux messages" title="Pas de nouveaux messages" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=3&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="forumlink">XBox</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=182&amp;highlight=&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb" class="topictitle">Ouverture du site LeagueXbox</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=53&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">sKapoNe</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">108</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Jeu Avr 29, 2004 3:25 pm<br /><a href="profile.php?mode=viewprofile&amp;u=53&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">sKapoNe</a> <a href="viewtopic.php?p=942&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb#942"><img src="templates/smileblue/images/icon_latest_reply.gif" alt="Voir le dernier message" title="Voir le dernier message" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="catBottom" colspan="7" height="28" valign="middle">&nbsp; </td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr>
+	<td align="left" valign="top"><span class="nav">Page <b>1</b> sur <b>3</b></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="nav">Aller à la page <b>1</b>, <a href="search.php?search_id=810802185&amp;start=20&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">2</a>, <a href="search.php?search_id=810802185&amp;start=40&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">3</a>&nbsp;&nbsp;<a href="search.php?search_id=810802185&amp;start=20&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">Suivante</a></span><br /><span class="gensmall">Toutes les heures sont au format GMT</span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td valign="top" align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Sauter vers:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Sélectionner un forum</option><option value="-1">&nbsp;</option><option value="-1">Général</option><option value="-1">----------------</option><option value="10">Général</option><option value="9">Tchatch</option><option value="-1">&nbsp;</option><option value="-1">Consoles</option><option value="-1">----------------</option><option value="1">Gamecube</option><option value="2">PS2</option><option value="3">XBox</option><option value="5">Portables</option><option value="4">Autres...</option><option value="-1">&nbsp;</option><option value="-1">PC</option><option value="-1">----------------</option><option value="11">Jeux</option><option value="12">Hardware</option><option value="-1">&nbsp;</option><option value="-1">Nostalgie</option><option value="-1">----------------</option><option value="7">Général</option><option value="8">Emulation</option></select><input type="hidden" name="sid" value="f9c03e33ff697b3404dd4fdc5b53a2bb" />&nbsp;<input type="submit" value="Aller" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="admin"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB 2.0.6 line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+		</td>
+	</tr>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td background="templates/smileblue/images/b_h1.gif" height="30" border="0">
+      <div align="center"><img src="templates/smileblue/images/copyright.gif" width="424" height="30" border="0" usemap="#Map3">
+      </div>
+    </td>
+  </tr>
+</table>
+<!--
+Si vous utilisez ce thème c'est que vous l'appréciez, je vous demande donc de laisser
+les informations ci dessous ni de les changer ni de les enlever. Merci
+// -->
+<map name="Map">
+  <area shape="rect" coords="94,83,119,96" href="faq.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+  <area shape="rect" coords="131,54,194,66" href="search.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+  <area shape="rect" coords="146,83,181,95" href="profile.php?mode=editprofile&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+  <area shape="rect" coords="25,54,103,67" href="profile.php?mode=register&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+  <area shape="rect" coords="222,54,316,67" href="memberlist.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+  <area shape="rect" coords="343,54,465,67" href="groupcp.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+  <area shape="rect" coords="209,84,297,97" href="privmsg.php?folder=inbox&amp;sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+  <area shape="rect" coords="325,82,467,95" href="login.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+</map>
+<map name="Map2">
+  <area shape="rect" coords="23,3,227,104" href="index.php?sid=f9c03e33ff697b3404dd4fdc5b53a2bb">
+</map>
+<map name="Map3">
+  <area shape="rect" coords="69,9,99,22" href="http://www.phpbb.com">
+  <area shape="rect" coords="350,9,419,21" href="http://www.wabisurf.net">
+</map>
+</body></html>

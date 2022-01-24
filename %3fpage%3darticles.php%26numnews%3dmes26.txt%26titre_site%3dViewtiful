@@ -1,0 +1,358 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>4Gamers -> Viewtiful</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Voici LE site des fans de jeux videos tous supports, vous y trouverez les dernieres infos, des dossiers, tests, previews, forum et plein de surprises">
+<meta name="keywords" content="consoles, jeux, video, nintendo, sony, pc, doom, halflife, e3, micromania, show, fps, microsoft, emulation, nostalgie, gamecube, playstation, xbox, ngc, gameboy, ps, ps2, psone, forum, test, preview, mario, zelda, gt, link, project64, n64, psone, ff, tekken, pc, dead or alive, game, 4gamers">
+<meta name="author" content="CedFlow">
+<meta name="identifier-url" content="http://www.4gamers-fr.com">
+<meta name="reply-to" content="4gamers@4gamers-fr.com">
+<meta name="revisit-after" content=7 days">
+<meta name="robots" content="index, follow">
+<meta name="distribution" content="global">
+<meta name="copyright" content="4gamers-2003">
+<meta name="abstract" content="Voici LE site des fans de jeux videos tous supports, vous y trouverez les dernieres infos, des dossiers, tests, previews, forum et plein de surprises">
+
+<STYLE TYPE="text/css">
+body {
+scrollbar-face-color: #88B6DB;
+scrollbar-shadow-color: #C8DDEE;
+scrollbar-highlight-color: #59748D;
+scrollbar-3dlight-color: #D1D7DC;
+scrollbar-darkshadow-color: #88B6DB;
+scrollbar-track-color: #C8DDEE;
+scrollbar-arrow-color: #FFFFFF;}
+
+<!--A:link {text-decoration: none; color: #999999; }-->
+<!--A:visited {text-decoration: none; color: #999999; }-->
+<!--A:active {text-decoration: none; color: #999999; }-->
+<!--A:hover {text-decoration: none; color: #CCCCCC; }-->
+
+<!--A.lien:link {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:visited {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:active {text-decoration: none; color: #FFFFFF; }-->
+<!--A.lien:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien{font-family:Arial ; font-size="10pt";font-weight:bold;}-->
+
+<!--A.lien2:link {text-decoration: none; color: #999999; }-->
+<!--A.lien2:visited {text-decoration: none; color: #999999; }-->
+<!--A.lien2:active {text-decoration: none; color: #999999; }-->
+<!--A.lien2:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien2 {font-family: Arial; font-size="10pt";font-weight:bold; }-->
+
+<!--A.lien3:link {text-decoration: none; color: #999999; }-->
+<!--A.lien3:visited {text-decoration: none; color: #999999; }-->
+<!--A.lien3:active {text-decoration: none; color: #999999; }-->
+<!--A.lien3:hover {text-decoration: none; color: #000000; }-->
+<!--A.lien{font-family:Arial ; font-size="10pt"; }
+.Style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.Style2 {font-size: x-small}
+.Style3 {font-size: xx-small}
+-->
+</STYLE>
+
+</head>
+<body bgcolor="#88B6DB">
+<div align="center">
+  <table width="900" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img src="design/titre/titre2k5.gif" width="900" height="120"></td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="171" height="25" valign="top" background="design/BarreH.gif" bgcolor="#FFFFFF"><div align="left"><img src="design/AngleHG.gif" width="170" height="25"></div></td>
+      <td height="25" valign="top" background="design/BarreH.gif"><div align="left" class="lien"><span class="Style2"></span><strong>[ </strong><a href="index.php?page=ngc.php&titre_site=Nintendo%20Gamecube&consoles=ngc" class="lien">NGC</a><strong> | </strong><a href="index.php?page=ps2.php&titre_site=Sony%20PS2&consoles=ps2" class="lien">PS2</a><strong> | </strong><a href="index.php?page=xbox.php&titre_site=Microsoft%20Xbox&consoles=xbox" class="lien">XBox</a><strong> | </strong><a href="?page=portables.php&titre_site=Portables" class="lien">Portables</a><strong> | </strong><a href="index.php?page=pc.php&titre_site=PC" class="lien">PC </a><strong>| <a href="index.php?page=autres.php&titre_site=Emulation,%20Nostalgie%20et%20Autres..." class="lien">Autres</a> || </strong><a href="http://www.4gamers-fr.com/forum/" target="_blank" class="lien">Forum</a><strong> | </strong><a href="index.php?page=chat.php&titre_site=Venez%20chatter%20sur%204Gamers-fr" class="lien">Chat </a><strong>]</strong><span class="Style2"></span></div></td>
+      <td height="25" valign="top" background="design/BarreH.gif"><div align="right">
+          <div style="font-family:Verdana; font-size=10pt;font-weight:bold;">
+            <font size="-2" face="Arial, Helvetica, sans-serif">
+			Vendredi 14 Janvier 2005</font>
+          </div>
+      </div></td>
+      <td width="171" height="25" align="right" valign="top" background="design/BarreH.gif" bgcolor="#FFFFFF">
+        <div align="right"><img src="design/AngleHD.gif" width="170" height="25"></div></td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="30" align="center" valign="top" background="design/BarreG.gif"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="30" align="center"><p><br>
+                  <a href="javascript:window.external.addfavorite('http://www.4gamers-fr.com', '4Gamers -> Le site: 100% Jeux, 100% Gamers')"><img src="design/favoris.gif" alt="Ajouter 4Gamers-fr aux favoris..." width="20" height="20" border="0"></a><a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.4gamers-fr.com');"><img src="design/home.gif" alt="D&eacute;finir 4Gamers-fr comme page d'accueil..." width="20" height="20" border="0"></a><a href="#" OnClick="javascript:window.print()"><img src="design/imprimante.gif" alt="Imprimer cette page..." width="20" height="20" border="0"></a><br>
+                  <br>
+            </p></td>
+          </tr>
+          <tr>
+            <td width="30" align="right"><img src="design/onglet/ongletarticles.gif" width="25" height="515" border="0" usemap="#Map">
+</td>
+          </tr>
+        </table>      </td>
+      <td align="center" valign="top" bgcolor="#FFFFFF">
+	  <!-- Page principale -->
+
+      <table width="100%"  border="0" cellspacing="14" cellpadding="0">
+        <tr>
+          <td width="65%" align="center" valign="top"><div align="center">
+              <div align="center">
+        <style type="text/css">
+<!--
+.Style2 {font-size: -2}
+-->
+</style>
+<div align="center">
+  <table width="570" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top"><div align="center"><img src="design/canon/canonHarticles.png" width="570" height="19"></div></td>
+    </tr>
+  </table>  <table width="570" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+    <tr>
+      <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+      25/10/2003 <b>[Test][NGC]</b> - <b>Viewtiful Joe</b> <font size="-2">par <a href="mailto:atchoumlechove@4gamers-fr.com?subject=Viewtiful Joe" class=lien3>AtchoumLeChove</a></font><p><font size="-2">Introduction:</font><br><table width="100%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8"><tr><td valign="top" bgcolor="#FFFFFF"><div style="font-family:Verdana; font-size=10pt;"><div align=justify>Hideki Kamiya, génial géniteur de Devil May Cry, a sûrement voulu tester de nouvelles idées sorties de son cerveau en créant ce jeu. Et là on peut dire qu’il apporte une vague de fraicheur dans un jeu mi plate-forme mi beat them all. Heureusement que Capcom nous fait l’honneur de nous sortir la version française de cette perle du jeu vidéo « à l’ancienne »</div></div></td></tr></table><p><div align="justify">Tout d’abord le jeu fait beaucoup d’allusion au cinéma, notamment le cinéma d’action américain des années 60 et les héros Japonnais. C’est donc normal que l’histoire commence dans un cinéma. Joe et Sylvia (la petite copine du héros) sont en train de visionner un bon navet de série Z comme adore Joe. Mais par malheur le héros du film perd et le méchant enlève la bien-aimée de notre héros. C’est avec ces bases, on ne peut plus classiques, mais c’est aussi voulu, que commence le jeu. Joe va donc devoir rentrer dans le film et sauver sa dulcinée comme tout heros de film qui se respecte. <br /><br />
+<br /><br />
+ <img src=http://images.nintendo.com/nintendo/contents/gamepage/gamecontent/images/v/viewtifuljoejan03_gcn_ss10.jpg width=512 height=358> <br /><br />
+<br /><br />
+Tout d’abord les graphismes du jeu peuvent rebuter tous les réfractaires au style japonnais, mais Capcom nous offre du pur délire visuel. Le jeu est tout en 3D, malgré une évolution linéraire digne des jeux de plates-formes 2D, et en Cell-Shading, ce qui donne un aspect BD au jeu. Pendant les cut-scènes on a le droit aux poussières sur la pellicule comme dans un vrai film, totalement bluffant. De même quand Joe n’est plus en super-héros, le grain du film est tel que l’on a l’impression de regarder un vieux film.<br /><br />
+On a vraiment l’impression de regarder un film, notamment grâce aux effets sonores. Quand Joe réussit un coup magnifique on peut entendre le public s’exclamer de joie. De même quand on commence un niveau, le public applaudit l’arrivée de Joe. Il faut préciser que tous les personnages parlent ! Et ont tous des voix qui leur collent parfaitement. Sinon les thèmes musicaux sont agréables sans être transcendants.<br /><br />
+<br /><br />
+ <img src=http://images.nintendo.com/nintendo/contents/gamepage/gamecontent/images/v/viewtifuljoejan03_gcn_ss5.jpg width=512 height=358> <br /><br />
+<br /><br />
+Passons à la jouabilité ; elle est assez simple mais très très efficace. Notre Joe a une palette de mouvements assez conséquente. Hormis les coups de pieds et coups de poings classiques, il enchaine les combos avec une classe sans pareil. Joe est un poseur né, et cela est renforcé par des effets spéciaux. En effet notre héros possède une barre VFX qui lui permet des combos de toute beauté. Trois effets sont proposés : l’effet ralenti à la Matrix, un effet rapidité accru et l’effet zoom. Le premier permet à Joe de prendre des poses tel Neo dans Matrix (d’éviter les balles, ralentir les ennemis…) . Le deuxième rend Joe extrêmement rapide (les ennemis également), enfin le zoom lui donne des nouvelles prises inédites. Bien sûr, cela serait trop facile sans cette barre VFX qui, si on utilise trop de ces effets, baisse rapidement. Si cette dernière est vide, Joe redevient le Joe de tous les jours. Tout ses effets sont superbement réalisés ce qui donne des enchainements dignes des meilleurs films de Hong-Kong !<br /><br />
+Le jeu se découpe en 7 niveaux qui font chacun allusion à de grands classiques du cinéma : <i>Les dents de la mer</i>, <i>Certain l’aime chaud</i>, <i>Star Wars</i>…<br /><br />
+<br /><br />
+ <img src=http://images.nintendo.com/nintendo/contents/gamepage/gamecontent/images/v/viewtifuljoejan03_gcn_ss1.jpg width=512 height=358> <br /><br />
+<br /><br />
+Malgré tout, ce jeu possède quelques défauts, notamment une certaine difficulté. Il possède des passages assez ardus qui en découragera plus d’un. Et son style graphique, assez spécial, en rebutera plus d’un.</div><br><p><font size="-2">Conclusion:</font><br><table width="100%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8"><tr><td valign="top" bgcolor="#FFFFFF"><div style="font-family:Verdana; font-size=10pt;"><div align=justify>En clair, ce jeu est une vrai bouffée d’air frais ! Il reste quand même un beat them all classique, mais avec plein de trouvailles graphiques et techniques qui le rend accrocheur au possible. Capcom nous montre vraiment son talent (surtout le studio 4 de Capcom) et cet ovni vidéoludique en surprendra plus d’un.</div></div></td></tr></table><p align="center"><font color="#FF0000" size="+3">note: 17 / 20</font></strong>
+			<table width="400" border="1" cellpadding="2" cellspacing="0" bordercolor="#C8C8C8"><tr bgcolor="#FFFFFF"><td valign="top"><div style="font-family:Verdana; font-size=10pt;">Points Positifs :</div></td><td valign="top"><div style="font-family:Verdana; font-size=10pt;">Points N&eacute;gatifs :</div></td></tr><tr bgcolor="#FFFFFF"><td valign="top"><div style="font-family:Verdana; font-size=10pt;">-Un univers délirant<br />
+-L’humour<br />
+-Les effets spéciaux<br />
+-Le gameplay</div></td><td valign="top"><div style="font-family:Verdana; font-size=10pt;">-Une certaine difficulté</div></td></tr></table><br><div align=right>&gt;&gt; <a href="http://www.4gamers-fr.com/forum/viewforum.php?f=1&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class=lien>Commenter cet article sur le Forum</a> &gt;&gt;<font size="-2"><br> - Posté à : 09:17 - </font></div></div>      </td>
+    </tr>
+  </table>
+  <table width="570" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3">Haut</a> ^</font></div>
+        <div align="left" class="Style2"></div></td>
+    </tr>
+  </table>
+  <script language="JavaScript1.1">
+		<!--
+		hsh = new Date();
+		hsd = document;
+		hsr = hsd.referrer.replace(/[<>]/g, '');
+		hsi = '<a href="http://www.xiti.com/xiti.asp?s=123018"';
+		hsi += ' TARGET="_top"><img width="39" height="25" border=0 ';
+		hsi += 'src="http://logv23.xiti.com/hit.xiti?s=123018';
+		hsi += '&p=Article';
+		hsi += '&hl=' + hsh.getHours() + 'x' + hsh.getMinutes() + 'x' + hsh.getSeconds();
+		if(parseFloat(navigator.appVersion)>=4)
+		{Xiti_s=screen;hsi += '&r=' + Xiti_s.width + 'x' + Xiti_s.height + 'x' + Xiti_s.pixelDepth + 'x' + Xiti_s.colorDepth;}
+		hsd.writeln(hsi + '&ref=' + hsr.replace(/&/g, '$') + '" title="Mesurez votre audience"></a><\!--');
+		//-->
+	</script>
+  </p>
+  <noscript>
+  <a href="http://www.xiti.com/xiti.asp?s=123018" TARGET="_top"><img width="39" height="25" border=0 src="http://logv23.xiti.com/hit.xiti?s=123018&p=&" title="Mesurez votre audience"></a>
+  </noscript>
+  <!--//-->
+  <A HREF=http://www.hit-parade.com/hp.asp?site=a366807 TARGET=_top><br>
+<IMG SRC=http://loga.hit-parade.com/logohp1.gif?site=a366807 TITLE="Hit-Parade" WIDTH=77 HEIGHT=15 BORDER=0></A></div>
+</div>
+              </div></td>
+          <td width="35%" align="center" valign="top"><div align="center">
+		  	              <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHdownload.gif" width="220" height="19" border="0" usemap="#Map4"></div></td>
+                </tr>
+              </table>
+              <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+                <tr>
+                  <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+                      <b>[<font color=#0033FF>PS2</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1623.txt&titre_site=L'intro de Tekken V class=lien2>L'intro de Tekken V</a><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1610.txt&titre_site=Vidéo de Resident Evil 4 class=lien2>Vidéo de Resident Evil 4</a><br><b>[<font color=#666666>N</font><font color=#0033FF>DS</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1574.txt&titre_site=Galerie de photos de la Nintendo DS class=lien2>Galerie de photos de la Nintendo DS</a><br><b>[<font color=#666666>N</font><font color=#0033FF>DS</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1533.txt&titre_site=Vidéos Ridge Racer DS class=lien2>Vidéos Ridge Racer DS</a><br><b>[<font color=#9933FF>NGC</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1511.txt&titre_site=Trailer Viewtiful Joe 2 class=lien2>Trailer Viewtiful Joe 2</a><br><b>[<font color=#0033FF>PS2</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1510.txt&titre_site=Trailer GTA : San Andreas class=lien2>Trailer GTA : San Andreas</a><br><b>[<font color=#FFFF66>PC</font>]</b> - <a href=index.php?page=exploredownload.php&numnews=mes1508.txt&titre_site=Nouvelle Démo pour  RollerCoaster Tycoon 3 class=lien2>Nouvelle Démo pour  RollerCoaster Tycoon 3</a><br>                  </div></td>
+                </tr>
+              </table>
+            </div>
+              <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+                  <td width="50%" valign="top"><div align="right"><font size="-2" face="Arial, Helvetica, sans-serif">&gt;<a href="?page=indexnews.php&titre_site=G%E9n%E9ral%20-%3E%20News" class="lien3 Style3"> Suite </a> &gt;</font></div></td>
+                </tr>
+              </table>
+			                <br>
+              <font size="-1"><span class="Style1">R&eacute;digez vos articles, ils seront<br>
+      sur 4Gamers-fr !!!</span><br>
+      <a href="http://4gamers.free.fr/courrier.htm" target="_blank" class="lien2">&lt;&lt; ICI &gt;&gt;</a> </font> <br>
+      		<br>
+	  <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHarticles.gif" width="220" height="19" border="0" usemap="#Map5"></div></td>
+        </tr>
+      </table>
+      <div align="center">
+        <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+          <tr>
+            <td align="left" valign="top" bgcolor="#C8DDEE"><div style="font-family:Verdana; font-size=10pt;">
+            <div align="center">
+                <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDpreviews.gif" width="120" height="20" border="0" usemap="#Map7"></td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=index.php?page=articles.php&numnews=mes81.txt&titre_site=Winning Eleven 8 class=lien2>Winning Eleven 8</a><br>- <a href=index.php?page=articles.php&numnews=mes66.txt&titre_site=Nouveautés PS2 class=lien2>Nouveautés PS2</a><br>- <a href=index.php?page=articles.php&numnews=mes13.txt&titre_site=James Bond : Quitte ou Double class=lien2>James Bond : Quitte ou Double</a><br>                    </td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDtests.gif" width="120" height="20" border="0" usemap="#Map8"></td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=index.php?page=articles.php&numnews=mes89.txt&titre_site=Nintendo DS class=lien2>Nintendo DS</a> <img src=images/pop.gif width=23 height=11><br>- <a href=index.php?page=articles.php&numnews=mes88.txt&titre_site=Dragon Ball Z Budokaï 3 class=lien2>Dragon Ball Z Budokaï 3</a> <img src=images/pop.gif width=23 height=11><br>- <a href=index.php?page=articles.php&numnews=mes86.txt&titre_site=Pro Evolution Soccer 4 class=lien2>Pro Evolution Soccer 4</a> <img src=images/pop.gif width=23 height=11><br>- <a href=index.php?page=articles.php&numnews=mes78.txt&titre_site=FarCry : Enfin du DirectX 9 class=lien2>FarCry : Enfin du DirectX 9</a><br>- <a href=index.php?page=articles.php&numnews=mes77.txt&titre_site=Final Fantasy : Christal Chronicles mode multi joueurs class=lien2>Final Fantasy : Christal Chronicles mode multi joueurs</a><br>                    </td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left"><img src="design/canon/canon_menuDautres.gif" width="120" height="20" border="0" usemap="#Map9">                        </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      - <a href=index.php?page=articles.php&numnews=mes82.txt&titre_site=Game On class=lien2>Game On</font></a><br>- <a href=index.php?page=articles.php&numnews=mes80.txt&titre_site=CyberUniCup 04 class=lien2>CyberUniCup 04</font></a><br>- <a href=index.php?page=articles.php&numnews=mes54.txt&titre_site=De l’argent a dépenser ?? ... Bons titres à se procurer class=lien2>De l’argent a dépenser ?? ... Bons titres à se procurer</font></a><br>- <a href=index.php?page=articles.php&numnews=mes40.txt&titre_site=CD Rom Virtuels class=lien2>CD Rom Virtuels</font></a><br>- <a href=index.php?page=articles.php&numnews=mes38.txt&titre_site=Emulation N64 class=lien2>Emulation N64</font></a><br>                    </td>
+                  </tr>
+                </table></div>
+            </div></td>
+          </tr>
+        </table>
+      </div>
+      <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+          <td width="50%" valign="top"><div align="right"><font size="-2" face="Arial, Helvetica, sans-serif">&gt;<a href="?page=indexnews.php&titre_site=G%E9n%E9ral%20-%3E%20News" class="lien3 Style3"> Suite </a> &gt;</font></div></td>
+        </tr>
+      </table>
+	        <map name="Map3" id="Map3">
+        <area shape="rect" coords="40,1,97,21" href="index.php?page=indexnews.php&titre_site=G&#233;n&#233;ral%20-%3E%20News" alt="Voir la liste des News">
+      </map>            <br>
+      <table width="98%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="right" valign="top"><div align="right"><img src="design/canon/CanonHForum.gif" width="220" height="19" border="0" usemap="#Map6Map"></div></td>
+        </tr>
+      </table>
+      <div align="center">
+        <table width="98%" border="1" cellpadding="8" cellspacing="0" bordercolor="#C8C8C8">
+          <tr>
+            <td align="center" valign="top" bgcolor="#C8DDEE"><table width="95%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=6&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum G&eacute;n&eacute;ral</a></td>
+                  <td width="100" align="left">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=1&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum Consoles :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=1&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Gamecube</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=2&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Playstation2</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=3&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Xbox</a></td>
+                </tr>
+                <tr>
+                  <td align="left">&nbsp;</td>
+                  <td align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=5" target="_blank" class="lien3">Portables</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=4&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Autres</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=7" target="_blank" class="lien2">Forum PC :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=11" target="_blank" class="lien3">Jeux</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=12" target="_blank" class="lien3">Hardware</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left"><a href="http://www.4gamers-fr.com/forum/index.php?c=3&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien2">Forum Nostalgie :</a></td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=7&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">G&eacute;n&eacute;ral</a></td>
+                </tr>
+                <tr>
+                  <td width="200" align="left">&nbsp;</td>
+                  <td width="100" align="left"><a href="http://www.4gamers-fr.com/forum/viewforum.php?f=8&sid=2daa3e3609b5ccd509a42927e3a4bbc3" target="_blank" class="lien3">Emulation</a></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="50%" valign="top"><div align="left"><font size="-2" face="Arial, Helvetica, sans-serif">^ <a href="javascript:scroll(0,0);" class="lien3 Style3">Haut</a> ^</font></div></td>
+          </tr>
+        </table>
+      </div>
+      <map name="Map6Map" id="Map62">
+        <area shape="rect" coords="111,3,181,17" href="http://www.4gamers-fr.com/forum/" target="_blank" alt="Aller sur le Forum">
+      </map>      <br>
+      	        </td>
+        </tr>
+      </table>
+</td>
+      <td width="1" background="design/CoteD.gif" bgcolor="#FFFFFF">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="150" height="22" valign="top" background="design/basG.png">&nbsp;</td>
+      <td width="20" height="22" align="left" valign="top" background="design/bas.png"><div align="left"><img src="design/basangleG.png" width="20" height="22"></div></td>
+      <td width="350" height="22" align="left" valign="bottom" background="design/bas.png"><div align="right"><img src="design/barrebas2.gif" width="70" height="22"></div></td>
+      <td width="210" height="22" align="right" valign="baseline" background="design/bas.png"><font size="-1" face="Arial, Helvetica, sans-serif">Design<font color="#CCCCCC"> &amp;</font> PHP <font color="#CCCCCC">by</font>
+        <script language="JavaScript">
+		<!--
+		var name = "cedflow";
+		var domain = "4gamers-fr.com";
+		document.write('<a href="mailto:' + name + '@' + domain + '" class="lien">');
+		document.write('CedFlow</a>');
+		// -->
+		</script>
+      </font></td>
+      <td height="22" align="right" valign="top" background="design/bas.png"><div align="right"><img src="design/barrebas2.gif" width="70" height="22"><img src="design/basV.png" width="1" height="22"></div></td>
+    </tr>
+  </table>
+  <br>
+  <span class="Style2">Toute copie partielle ou totale de ce site est interdite.<br>
+&copy; 2001-2004 4Gamers-fr est optimis&eacute; pour<br>
+le 1024x768 </span><span class="Style3">(4Gamers version 3.1)
+<br>Page générée en: 0.3505699634552 secondes</span></div>
+<map name="Map">
+    <area shape="poly" coords="5,2,22,2,22,60,5,47" href="?page=accueil.php&titre_site=Le%20site:%20100%25%20Jeux,%20100%25%20Gamers">
+    <area shape="poly" coords="4,62,22,62,23,122,5,108" href="?page=indexnews.php&titre_site=G&#233;n&#233;ral%20-%3E%20News" alt="Voir la liste des News">
+    <area shape="poly" coords="5,121,22,123,22,194,5,180,6,183" href="?page=indexarticles.php&titre_site=G&#233;n&#233;ral%20-%3E%20Articles" alt="Voir la liste des Articles">
+    <area shape="poly" coords="5,194,22,195,23,293,7,278" href="?page=download.php&titre_site=G&#233;n&#233;ral%20-%3E%20Telechargements" alt="Voir la liste des T&eacute;l&eacute;chargements">
+    <area shape="poly" coords="6,370,24,370,23,429,5,416" href="?page=equipe.php&titre_site=G&#233;n&#233;ral%20-%3E%20Equipe" alt="">
+    <area shape="poly" coords="6,430,23,431,23,506,6,492" href="?page=edito.php&titre_site=G&#233;n&#233;ral%20-%3E%20Edito">
+    <area shape="poly" coords="5,295,24,297,22,368,5,355" href="?page=boutique.php&titre_site=G&#233;n&#233;ral%20-%3E%20Boutique%20en%20Ligne">
+</map>
+<map name="Map4" id="Map4">
+    <area shape="rect" coords="55,2,183,17" href="index.php?page=download.php&titre_site=G&#233;n&#233;ral%20-%3E%20Telechargements" alt="Voir la liste des T&eacute;l&eacute;chargements">
+</map>
+<map name="Map5" id="Map5">
+    <area shape="rect" coords="96,2,182,17" href="index.php?page=indexarticles.php&titre_site=G&#233;n&#233;ral%20-%3E%20Articles" alt="Voir la liste des Articles">
+</map>
+<map name="Map6" id="Map6">
+    <area shape="rect" coords="111,3,181,17" href="http://www.4gamers-fr.com/forum/" target="_blank" alt="Aller sur le Forum">
+</map>
+<map name="Map7" id="Map7">
+    <area shape="rect" coords="3,3,94,16" href="index.php?page=previews.php&titre_site=Previews" alt="Affichages des previews...">
+</map>
+<map name="Map8" id="Map8">
+    <area shape="rect" coords="5,3,57,17" href="index.php?page=tests.php&titre_site=Tests" alt="Affichage des tests...">
+</map>
+<map name="Map9" id="Map9">
+    <area shape="rect" coords="4,3,74,17" href="index.php?page=autresarticles.php&titre_site=Autres%20Articles" alt="Affichages des autres articles...">
+</map>
+</body>
+</html>

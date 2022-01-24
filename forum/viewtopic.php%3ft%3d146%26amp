@@ -1,0 +1,1025 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="LTR">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css"></head>
+
+<link rel="top" href="./index.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="--------=={ www.4gamers-fr.com }==-------- Index du Forum" />
+<link rel="search" href="./search.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Rechercher" />
+<link rel="help" href="./faq.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Liste des Membres" />
+<link rel="prev" href="viewtopic.php?t=146&amp;view=previous&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Voir le sujet précédent" />
+<link rel="next" href="viewtopic.php?t=146&amp;view=next&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Voir le sujet suivant" />
+<link rel="up" href="viewforum.php?f=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Général" />
+<link rel="chapter forum" href="viewforum.php?f=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Général" />
+<link rel="chapter forum" href="viewforum.php?f=9&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Tchatch" />
+<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Gamecube" />
+<link rel="chapter forum" href="viewforum.php?f=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="PS2" />
+<link rel="chapter forum" href="viewforum.php?f=3&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="XBox" />
+<link rel="chapter forum" href="viewforum.php?f=5&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Portables" />
+<link rel="chapter forum" href="viewforum.php?f=4&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Autres..." />
+<link rel="chapter forum" href="viewforum.php?f=11&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Jeux" />
+<link rel="chapter forum" href="viewforum.php?f=12&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Hardware" />
+<link rel="chapter forum" href="viewforum.php?f=7&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Général" />
+<link rel="chapter forum" href="viewforum.php?f=8&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" title="Emulation" />
+
+<title>--------=={ www.4gamers-fr.com }==-------- :: Voir le sujet - Nintendo DS</title>
+<style type="text/css">
+<!--
+/*
+  Theme for phpBB version 2+
+  Created by Wabisurf.net
+  http://www.wabisurf.net
+*/
+body { scrollbar-face-color: #8CB6D4; scrollbar-highlight-color: #FFFFFF; scrollbar-arrow-color:  #FFFFFF; scrollbar-track-color: #EAF5FD; scrollbar-darkshadow-color: #98AAB1;
+}
+
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #28CBF4; }
+hr	{ height: 0px; border: solid #CBE6F9 0px; border-top-width: 1px;}
+
+.bodyline	{ background-color: #FFFFFF; border: 1px #AEBDC4 solid; }
+
+.forumline	{ background-color: #FFFFFF; border: 2px #A7B9D1 solid; }
+.forumline1	{ border: 1px #B8D7ED solid; }
+
+td.row1	{ background-color: #EAF5FD; }
+td.row2	{ background-color: #DBEBF6; }
+td.row3	{ background-color: #CBE6F9; }
+
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/smileblue/images/wspic2.jpg);
+		background-repeat: repeat-y;
+}
+
+th	{
+	color: #FFFFFF; font-size: 11px; font-weight : bold;
+	background-color: #8CB6D4; height: 25px;
+	background-image: url(templates/smileblue/images/wspic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/smileblue/images/wspic1.gif);
+			background-color:#DBEBF6; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: #CBE6F9; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+.maintitle	{
+	font-weight: bold; font-size: 12px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+.gen { font-size : 11px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #28CBF4; text-decoration: underline; }
+
+.cattitle		{ font-weight: bold; font-size: 11px; letter-spacing: 1px; color : #006699}
+a.cattitle		{ text-decoration: none; color : #4A6E8A; }
+a.cattitle:hover{ text-decoration: underline; }
+
+.forumlink		{ font-weight: bold; font-size: 11px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #28CBF4; }
+
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+a.nav			{ text-decoration: none; color : #006699; }
+a.nav:hover		{ text-decoration: underline; }
+
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #28CBF4; }
+
+.name			{ font-size : 11px; color : #000000;}
+
+.postdetails		{ font-size : 10px; color : #000000; }
+
+.error                  { font-size : 11px; color : #006699; }
+
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+code {
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #14719C;
+	background-color: #FAFAFA; border: #91C6EB; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #14719C; line-height: 125%;
+	background-color: #FAFAFA; border: #91C6EB; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+input,textarea, select {
+	color : color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+input.button {
+	background-color : #EFEFEF;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+.helpline { background-color: #DBEBF6; border-style: none; }
+.admin		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #006699; letter-spacing: -1px;}
+
+body { background-color: #A0C2D8;
+}
+
+@import url("templates/subSilver/formIE.css");
+-->
+</style>
+</head>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	              <tr>
+	        <td class="bodyline"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="forumline">
+	              <tr>
+		<td background="templates/smileblue/images/b_h2.gif" height="122" valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+		<td valign="top"><img src="templates/smileblue/images/logo.jpg" width="260" height="120" border="0" usemap="#Map2"></td>
+		        <td width="100%" align="center" background="templates/smileblue/images/_logobg.gif"><img src="templates/smileblue/images/menu.gif" width="471" height="120" usemap="#Map" border="0">
+                </td>
+		</tr>
+	</table>
+	</td>
+	   </tr>
+	</table>
+	    <br />
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><span class="nav"><a href="index.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d" class="nav">--------=={ www.4gamers-fr.com }==-------- Index du Forum</a>
+      -> <a href="viewforum.php?f=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" class="nav">Général</a> -&gt; <a href="viewtopic.php?t=146&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" class="nav">Nintendo DS</a></span><br />
+	  <span class="gensmall"><b>Aller à la page <b>1</b>, <a href="viewtopic.php?t=146&amp;postdays=0&amp;postorder=asc&amp;start=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d">2</a>&nbsp;&nbsp;<a href="viewtopic.php?t=146&amp;postdays=0&amp;postorder=asc&amp;start=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d">Suivante</a></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap><span class="nav"><a href="posting.php?mode=newtopic&amp;f=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/post.gif" border="0" alt="Poster un nouveau sujet" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=146&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/reply.gif" border="0" alt="Répondre au sujet" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%">&nbsp;</td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+
+    <td class="catHead" colspan="2" height="27"><span class="nav"><a href="viewtopic.php?t=146&amp;view=previous&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" class="nav">Voir le sujet précédent</a>
+      :: <a href="viewtopic.php?t=146&amp;view=next&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" class="nav">Voir le sujet suivant</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap>Auteur</th>
+		<th class="thRight" nowrap>Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1">
+      <div align="center"><span class="name"><a name="674"></a><b>kelc'hwid</b></span><br />
+        <span class="postdetails">Facile<br />
+        <br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_1.gif" alt="Facile" title="Facile" border="0" /><br />
+            Inscrit le: 24 Sep 2003<br />
+              Messages: 64<br />
+              Localisation: Breizh</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=674&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#674"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Lun Jan 26, 2004 10:16 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: Nintendo DS</span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=674&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><img src="http://pocketmedia.ign.com/pocket/image/readermockup_012404_4.jpg" border="0" />
+<br />
+
+<br />
+
+<br />
+<img src="http://pocketmedia.ign.com/pocket/image/readermockup_012404_1.jpg" border="0" />
+<br />
+
+<br />
+
+<br />
+<img src="http://pocketmedia.ign.com/pocket/image/readermockup_012404_2.jpg" border="0" />
+<br />
+
+<br />
+
+<br />
+<img src="http://pocketmedia.ign.com/pocket/image/readermockup_012404_3.jpg" border="0" />
+<br />
+
+<br />
+
+<br />
+
+<br />
+Que pensez vous de l'arrivée de la nouvelle console nintendo DS ??
+<br />
+
+<br />
+Moi perso j'suis deçu ..
+<br />
+nintendo avez dit que c'etait un truc revolutionnaire..
+<br />
+que c'etait ni une console de salon ni une portable.. <img src="images/smiles/icon_confused.gif" alt="Confused" border="0" /> 
+<br />
+
+<br />
+et finalement c'est une console portable ..
+<br />
+a mon avis les jeux seront tres proches de la GBA Sp voir les memes, ameliorer pas le double ecran vertical !
+<br />
+
+<br />
+Bon c'est vrai que pour les programmeur sa laisse pas mal de liberté puis on retourne au source de Nintendo avec le Game & watch ! mais a mon avis ils vont avoir du mal a concurrencer la PSP avec leur jeux qui ce rapproche de la PS2 soit disant <img src="images/smiles/icon_mad.gif" alt="Mad" border="0" />  ..
+<br />
+
+<br />
+attendons peut etre de voir la tete de la bete et surtout ce quelle sera capable de faire ! <img src="images/smiles/icon_rolleyes.gif" alt="Rolling Eyes" border="0" /> 
+<br />
+
+<br />
+mais vous y pensez quoi ??<br />_________________<br />Bramm lous Ne ra ket trouz.
+<br />
+Pet sale ne fait point bruit.
+<br />
+
+<br />
+Neb a ra goap Ouzh e revr e stag.
+<br />
+Qui se moque, à son cul cela colle.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=8&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2">
+      <div align="center"><span class="name"><a name="675"></a><b>AtchoumLeChove</b></span><br />
+        <span class="postdetails">Site Moderator<br />
+        <img src="http://perso.wanadoo.fr/lossandcurse/atchoum.gif" alt="" border="0" /><br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_5_mod.gif" alt="Site Moderator" title="Site Moderator" border="0" /><br />
+            Inscrit le: 21 Sep 2003<br />
+              Messages: 273<br />
+              Localisation: DTC</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=675&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#675"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Lun Jan 26, 2004 12:36 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=675&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">je ne suis pas du même avi ke toi !
+<br />
+
+<br />
+on ne sait pas grand chose de cette console !! (à par le double écran) je pense qu'on peut faire confiance a Nintendo et attendre l'E3 où cette console sera dévoilé en version jouable
+<br />
+
+<br />
+Donc au lieu de baissé les bras avec très peu d'info attendont l'E3 <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+
+<br />
+wait and see... <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br />d[O_o]b&lt;·.¸.·´¯`·.¸.·&gt;AtchoumLeChove&lt;·.¸.·´¯`·.¸.·&gt;d[o_O]b
+<br />
+
+<br />
+"L'argent n'a pas d'odeur mais la femme a du flair"</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=5&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a> <a href="mailto:atchoumlechove@4gamers-fr.com"><img src="templates/smileblue/images/lang_french/icon_email.gif" alt="Envoyer l'e-mail" title="Envoyer l'e-mail" border="0" /></a> <a href="http://www.4gamers-fr.com" target="_userwww"><img src="templates/smileblue/images/lang_french/icon_www.gif" alt="Visiter le site web du posteur" title="Visiter le site web du posteur" border="0" /></a> <a href="aim:goim?screenname=AtchoumLeChove&amp;message=Hello+Are+you+there?"><img src="templates/smileblue/images/lang_french/icon_aim.gif" alt="Adresse AIM" title="Adresse AIM" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=163517557"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=163517557"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/163517557#pager"><img src="http://web.icq.com/whitepages/online?icq=163517557&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=163517557"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1">
+      <div align="center"><span class="name"><a name="676"></a><b>kelc'hwid</b></span><br />
+        <span class="postdetails">Facile<br />
+        <br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_1.gif" alt="Facile" title="Facile" border="0" /><br />
+            Inscrit le: 24 Sep 2003<br />
+              Messages: 64<br />
+              Localisation: Breizh</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=676&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#676"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Lun Jan 26, 2004 1:44 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=676&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">tu as raison !
+<br />
+Nintendo est capable de nous sortir quand meme un truc de ouf! <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /> 
+<br />
+je me suis un peu emporté ce matin pas reveillé.. <img src="images/smiles/icon_confused.gif" alt="Confused" border="0" /> 
+<br />
+mais j'espere que la PSP ne fera pas un pli face a leur nouvelle console! <img src="images/smiles/icon_evil.gif" alt="Evil or Very Mad" border="0" /> 
+<br />
+parce que si nintendo merde son coup il risque de finir comme Sega  <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" /> .. 
+<br />
+il faut pas qu'il l'appelle virtual boy.. <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+
+<br />
+Wet & si !  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br />Bramm lous Ne ra ket trouz.
+<br />
+Pet sale ne fait point bruit.
+<br />
+
+<br />
+Neb a ra goap Ouzh e revr e stag.
+<br />
+Qui se moque, à son cul cela colle.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=8&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2">
+      <div align="center"><span class="name"><a name="677"></a><b>kOkOnutzs</b></span><br />
+        <span class="postdetails">Facile<br />
+        <img src="http://myx6.zonegsm.com/animations/anim14.gif" alt="" border="0" /><br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_1.gif" alt="Facile" title="Facile" border="0" /><br />
+            Inscrit le: 30 Oct 2003<br />
+              Messages: 94<br />
+              Localisation: La norville beach</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=677&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#677"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Lun Jan 26, 2004 2:29 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=677&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Mon avis sur la DS : avant toute chose on ne sait pas grand chose alors pas de grandes elans de mauvaise foi ou à l'inverse de coups de chapeau et autres chants allégoriques sur Nintendo.
+<br />
+
+<br />
+Il est vrai qu'avec l'avènement des portables-consoles et de la PSP, la GBA ne peut que s'en faire, non pas être détronée puisque déjà bien implantée mais concurencée sur son marché jusque là reservé.
+<br />
+Bien sur on peut discuter de l'interêt de cette console mais étant que l'on en sait pas beaucoup ces paroles ne sont pour l'instant pas justifiées ou justifiables. Un double-écran => pourquoi pas si les developpeurs léexploite ça peut être interessant. Je ne connais pas non plus les détails de l'ARM9 nom du proc de la DS et je crois aussi qu'il y aura un ARM7 en // (celui du GBA-GBASP). Enfin bref tout ce baratin pour dire seulement que je n'espère que cette console soit dénué d'interêt en ne tirant pas la qualité vers le haut.
+<br />
+Et si nintendo veut nous donner des remakes qu'il s'attaque au N64, un pitit GOLDENEYE portable !!!!!!
+<br />
+sur ce mon délire s'achève et invite tout le monde à réagir ou mieux donner son avis<br />_________________<br />A cherche encore</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=27&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=27&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a> <a href="mailto:kokonutzs@voila.fr"><img src="templates/smileblue/images/lang_french/icon_email.gif" alt="Envoyer l'e-mail" title="Envoyer l'e-mail" border="0" /></a>    <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1">
+      <div align="center"><span class="name"><a name="678"></a><b>AtchoumLeChove</b></span><br />
+        <span class="postdetails">Site Moderator<br />
+        <img src="http://perso.wanadoo.fr/lossandcurse/atchoum.gif" alt="" border="0" /><br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_5_mod.gif" alt="Site Moderator" title="Site Moderator" border="0" /><br />
+            Inscrit le: 21 Sep 2003<br />
+              Messages: 273<br />
+              Localisation: DTC</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=678&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#678"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Mar Jan 27, 2004 10:21 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=678&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">vis à vis de la PSP je pense ke nintendo ne joue pas du tt dans la même coure que Sony ! En effet, pour moi, la PSP sera un gadjet "bourgoi" !! je pense ke son prix de vente sera + du double de la Nintendo DS (annoncé selon bloomberg.jp à 149$ alors ke la PSP a 300/400$) bref nintendo comme a son habitude sortira un produit peu cher donc plus facile d'accé.
+<br />
+
+<br />
+Comme tu le précise si bien koko il FAUT ke les editeurs suivent et exploitent cette solution de "double ecran" il faut savoir ke la machine a été présenté aux industrielle en Septembre et ke certains éditeurs on commencer a dévellopper dessus !
+<br />
+
+<br />
+donc wait and see. <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br />d[O_o]b&lt;·.¸.·´¯`·.¸.·&gt;AtchoumLeChove&lt;·.¸.·´¯`·.¸.·&gt;d[o_O]b
+<br />
+
+<br />
+"L'argent n'a pas d'odeur mais la femme a du flair"</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=5&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a> <a href="mailto:atchoumlechove@4gamers-fr.com"><img src="templates/smileblue/images/lang_french/icon_email.gif" alt="Envoyer l'e-mail" title="Envoyer l'e-mail" border="0" /></a> <a href="http://www.4gamers-fr.com" target="_userwww"><img src="templates/smileblue/images/lang_french/icon_www.gif" alt="Visiter le site web du posteur" title="Visiter le site web du posteur" border="0" /></a> <a href="aim:goim?screenname=AtchoumLeChove&amp;message=Hello+Are+you+there?"><img src="templates/smileblue/images/lang_french/icon_aim.gif" alt="Adresse AIM" title="Adresse AIM" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=163517557"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=163517557"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/163517557#pager"><img src="http://web.icq.com/whitepages/online?icq=163517557&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=163517557"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2">
+      <div align="center"><span class="name"><a name="679"></a><b>cedflow</b></span><br />
+        <span class="postdetails">Site Admin<br />
+        <img src="http://4gamers2002.free.fr/forum/images/avatars/gallery/servantes.jpg" alt="" border="0" /><br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_5_admin.gif" alt="Site Admin" title="Site Admin" border="0" /><br />
+            Inscrit le: 05 Aoû 2003<br />
+              Messages: 225<br />
+              Localisation: le pays du fromage, et des chovains ;-)</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=679&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#679"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Mer Jan 28, 2004 10:42 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=679&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Perso, je suis d'un avis proche de celui de chove, c'est à dire que Sony cherche une autre catégorie de joueur, en fait sony veut faire une machine suffisament puissante pour faire des jeux, des films, etc... en fait comme pour la PS3 ils veulent une machine multimédia.
+<br />
+
+<br />
+Pour la PSP, ils essaient de modifier la physionomie du marcher où ils ne sont pas implanté, en créant une machine qui remplacera les lecteurs mp3, divx et en ajoutant le jeu, le but étant de rassembler les gens qui utilisents des lecteurs multimédia, et de piquer des joueurs à Nintendo qui est leader sur ce marcher, de cette façon ils veulent rassembler un max d'acheteurs.
+<br />
+
+<br />
+Pour Nintendo, ils ne démordent pas, et perssistent dans le jeu vidéo, et uniquement le jeu vidéo, c à ca que sert une console d'ailleur.
+<br />
+
+<br />
+Donc qui gagnera, la société attiré par l'argent qui veut regrouper tout et n'importe quel type d'acheteur (le but est "vendons un max de consoles portable à un prix exorbitant, car ca rapporte un max") ou le constructeur de Kyoto qui garde la même ligne de conduite, et qui ne cherche qu'à contenter le joueur en mal de nouvelles senssations de jeu.
+<br />
+
+<br />
+
+<br />
+Personnellement je préfèrerais que Nintendo reste seul leader dans ce domaine car ils inovent tjrs dans le domaine, mais la concurence que Sony va proposer fera réagir Nintendo (notamment avec la Nintendo DS) et ainsi ils proposeront de nouvelles inovation comme ils savent le faire.
+<br />
+
+<br />
+
+<br />
+Donc j'attends avec impatience la DS et la PSP
+<br />
+
+<br />
+
+<br />
+Pour en revenir à la DS, j'attends des photos avec impatience, et surtout de voir ce que les développeurs veulent apporter avec les deux écrans, pour ce qui est de la puissance il n'y a qu'à attendre pour avoir plus de précision...
+<br />
+
+<br />
+
+<br />
+conclusion: vive la concurence, et surtout vive les inovation !!!<br />_________________<br />"L'homme n'est pas fait pour travailler. La preuve, c'est que ca le fatigue." (Georges Courteline)
+<br />
+<img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+"Tempête en Novembre t'en Chis en Décembre." (Moi)</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a> <a href="mailto:cedflow@4gamers-fr.com"><img src="templates/smileblue/images/lang_french/icon_email.gif" alt="Envoyer l'e-mail" title="Envoyer l'e-mail" border="0" /></a> <a href="http://www.4gamers-fr.com" target="_userwww"><img src="templates/smileblue/images/lang_french/icon_www.gif" alt="Visiter le site web du posteur" title="Visiter le site web du posteur" border="0" /></a> <a href="aim:goim?screenname=cedflow&amp;message=Hello+Are+you+there?"><img src="templates/smileblue/images/lang_french/icon_aim.gif" alt="Adresse AIM" title="Adresse AIM" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/97598812#pager"><img src="http://web.icq.com/whitepages/online?icq=97598812&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1">
+      <div align="center"><span class="name"><a name="680"></a><b>cedflow</b></span><br />
+        <span class="postdetails">Site Admin<br />
+        <img src="http://4gamers2002.free.fr/forum/images/avatars/gallery/servantes.jpg" alt="" border="0" /><br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_5_admin.gif" alt="Site Admin" title="Site Admin" border="0" /><br />
+            Inscrit le: 05 Aoû 2003<br />
+              Messages: 225<br />
+              Localisation: le pays du fromage, et des chovains ;-)</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=680&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#680"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Mer Jan 28, 2004 11:13 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=680&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">après des recherches, j'ai pus mettre la main sur une partie des documentations de l'ARM9
+<br />
+par ICI >><a href="http://www.4gamers-fr.com/?page=news.php&numnews=mes709.txt" target="_blank" class="postlink">http://www.4gamers-fr.com/?page=news.php&numnews=mes709.txt</a><br />_________________<br />"L'homme n'est pas fait pour travailler. La preuve, c'est que ca le fatigue." (Georges Courteline)
+<br />
+<img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+"Tempête en Novembre t'en Chis en Décembre." (Moi)</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a> <a href="mailto:cedflow@4gamers-fr.com"><img src="templates/smileblue/images/lang_french/icon_email.gif" alt="Envoyer l'e-mail" title="Envoyer l'e-mail" border="0" /></a> <a href="http://www.4gamers-fr.com" target="_userwww"><img src="templates/smileblue/images/lang_french/icon_www.gif" alt="Visiter le site web du posteur" title="Visiter le site web du posteur" border="0" /></a> <a href="aim:goim?screenname=cedflow&amp;message=Hello+Are+you+there?"><img src="templates/smileblue/images/lang_french/icon_aim.gif" alt="Adresse AIM" title="Adresse AIM" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/97598812#pager"><img src="http://web.icq.com/whitepages/online?icq=97598812&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2">
+      <div align="center"><span class="name"><a name="681"></a><b>kelc'hwid</b></span><br />
+        <span class="postdetails">Facile<br />
+        <br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_1.gif" alt="Facile" title="Facile" border="0" /><br />
+            Inscrit le: 24 Sep 2003<br />
+              Messages: 64<br />
+              Localisation: Breizh</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=681&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#681"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Mer Jan 28, 2004 1:11 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=681&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Interressant l'architecture de l'ARM9! 
+<br />
+Apparement ce processeur laisse beaucoup de possiblité au DS !
+<br />
+perso j'y connait pas grand chose... <img src="images/smiles/cryhug.gif" alt="cry hug" border="0" /> 
+<br />
+dommage que la doc soit en anglais! <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> 
+<br />
+
+<br />
+<img src="http://www.puissance-nintendo.com/images/infos/schemaDS.jpg" border="0" />
+<br />
+j'ai vu sur le site de puissance advance une rumeur qui affirme que la Nintendo DS pourrait bien afficher des jeux affichant une image 3D flottant entre les deux écrans de la console et que la technologie utilisée serait celle de Sharp...
+<br />
+
+<br />
+sur <a href="http://www.sharp3D.com" target="_blank">www.sharp3D.com</a>
+<br />
+ <img src="http://www.puissance-nintendo.com/images/infos/actiusrd3d.jpg" border="0" />
+<br />
+
+<br />
+
+<br />
+Sa laisse reveur mais a mon avis  je ne pense pas que celle ci aura cette possiblité car trop cher ... il faut un bon eclairage et cette 3D n'est pas tout a fait au point ...  <img src="images/smiles/icon_confused.gif" alt="Confused" border="0" /> 
+<br />
+mais qui sait ... l'idée reste revolutionnaire dans l'ere du jeux video ! 
+<br />
+vivement l'E3 ! <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br />Bramm lous Ne ra ket trouz.
+<br />
+Pet sale ne fait point bruit.
+<br />
+
+<br />
+Neb a ra goap Ouzh e revr e stag.
+<br />
+Qui se moque, à son cul cela colle.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=8&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1">
+      <div align="center"><span class="name"><a name="682"></a><b>YamiBoss</b></span><br />
+        <span class="postdetails">Invité<br />
+        <br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails">
+            <br />
+              <br />
+              </span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=682&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#682"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Mer Jan 28, 2004 1:33 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=682&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Le prix sera de 149 €
+<br />
+
+<br />
+(Voir ma preview sur la nintendo DS : [url] <a href="http://www.pocketgames.fr.st/previews_nintendo-ds_AUTRES.htm" target="_blank">www.pocketgames.fr.st/previews_nintendo-ds_AUTRES.htm</a> [/url]
+<br />
+
+<br />
+Signé : YamiBoss, Webmaster de <a href="http://www.pocketgames.fr.st" target="_blank" class="postlink">www.pocketgames.fr.st</a>
+<br />
+
+<br />
+PS : J'attend toujours une réponse pour le partenariat que je vous ai proposer, CedFlow <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap>      <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2">
+      <div align="center"><span class="name"><a name="683"></a><b>cedflow</b></span><br />
+        <span class="postdetails">Site Admin<br />
+        <img src="http://4gamers2002.free.fr/forum/images/avatars/gallery/servantes.jpg" alt="" border="0" /><br />
+        <br />
+        </span> </div>
+      <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline1" height="8">
+        <tr>
+          <td class="row3" width="100%">
+            <div align="center"><span class="postdetails"><img src="images/rank/gamecube/gamecube_ranksbl_5_admin.gif" alt="Site Admin" title="Site Admin" border="0" /><br />
+            Inscrit le: 05 Aoû 2003<br />
+              Messages: 225<br />
+              Localisation: le pays du fromage, et des chovains ;-)</span></div>
+          </td>
+        </tr>
+      </table>
+      <br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=683&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d#683"><img src="templates/smileblue/images/icon_minipost.gif" width="12" height="9" alt="Message" title="Message" border="0" /></a><span class="postdetails">Posté le: Mer Jan 28, 2004 2:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Sujet du message: </span></td>
+				<td valign="top" align="right" nowrap><a href="posting.php?mode=quote&amp;p=683&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_quote.gif" alt="Répondre en citant" title="Répondre en citant" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">En effet la console ne sera pas très chère par rapport à celle de sony, mais elle n'apportera pas autant de fonctionnalités (enfin le principale c le jeu, et la... <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> )
+<br />
+
+<br />
+Je trouve personnellement qu'il est un peu tôt pour réaliser un preview de cette console, étant donné que nous n'avons quasiment aucune information, à part le fait qu'il y ai 2 écrans, et que maintenant nous connaissons à peut près les capacité techniques de l'ARM9.
+<br />
+
+<br />
+donc pour le moment pas de preview chez nous, par ton preview est pas mal par rapport aux infos détenues.
+<br />
+
+<br />
+
+<br />
+ps: j'ai reçus y a deux jours ta demande, et comme j'ai plusieurs demandes en cours et que les places ne sont pas illimitées... enfin je v essayer de bosser sur le design du site pour pouvoir accueillir plus de partenaires, car cela nous aide, mais en plus nous aimons aussi aider les sites aussi bien débutant que confirmés. Ce soir ou demain je t'enverrais un mail.<br />_________________<br />"L'homme n'est pas fait pour travailler. La preuve, c'est que ca le fatigue." (Georges Courteline)
+<br />
+<img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+"Tempête en Novembre t'en Chis en Décembre." (Moi)</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Revenir en haut</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_profile.gif" alt="Voir le profil de l'utilisateur" title="Voir le profil de l'utilisateur" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_pm.gif" alt="Envoyer un message privé" title="Envoyer un message privé" border="0" /></a> <a href="mailto:cedflow@4gamers-fr.com"><img src="templates/smileblue/images/lang_french/icon_email.gif" alt="Envoyer l'e-mail" title="Envoyer l'e-mail" border="0" /></a> <a href="http://www.4gamers-fr.com" target="_userwww"><img src="templates/smileblue/images/lang_french/icon_www.gif" alt="Visiter le site web du posteur" title="Visiter le site web du posteur" border="0" /></a> <a href="aim:goim?screenname=cedflow&amp;message=Hello+Are+you+there?"><img src="templates/smileblue/images/lang_french/icon_aim.gif" alt="Adresse AIM" title="Adresse AIM" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/97598812#pager"><img src="http://web.icq.com/whitepages/online?icq=97598812&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=97598812"><img src="templates/smileblue/images/lang_french/icon_icq_add.gif" alt="Numéro ICQ" title="Numéro ICQ" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/smileblue/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=146&amp;start=0&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+				<td align="center"><span class="gensmall">Montrer les messages depuis: <select name="postdays"><option value="0" selected="selected">Tous les messages</option><option value="1">1 Jour</option><option value="7">7 Jours</option><option value="14">2 Semaines</option><option value="30">1 Mois</option><option value="90">3 Mois</option><option value="180">6 Mois</option><option value="364">1 An</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Le plus ancien en premier</option><option value="desc">Le plus récent en premier</option></select>&nbsp;<input type="submit" value="Aller" class="liteoption" name="submit" /></span></td>
+			</form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap><span class="nav"><a href="posting.php?mode=newtopic&amp;f=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/post.gif" border="0" alt="Poster un nouveau sujet" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=146&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d"><img src="templates/smileblue/images/lang_french/reply.gif" border="0" alt="Répondre au sujet" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d" class="nav">--------=={ www.4gamers-fr.com }==-------- Index du Forum</a>
+	  -> <a href="viewforum.php?f=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d" class="nav">Général</a></span></td>
+	<td align="right" valign="top" nowrap><span class="gensmall">Toutes les heures sont au format GMT</span><br /><span class="nav">Aller à la page <b>1</b>, <a href="viewtopic.php?t=146&amp;postdays=0&amp;postorder=asc&amp;start=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d">2</a>&nbsp;&nbsp;<a href="viewtopic.php?t=146&amp;postdays=0&amp;postorder=asc&amp;start=10&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d">Suivante</a></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> sur <b>2</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap>
+<form method="get" name="jumpbox" action="viewforum.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Sauter vers:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Sélectionner un forum</option><option value="-1">&nbsp;</option><option value="-1">Général</option><option value="-1">----------------</option><option value="10"selected="selected">Général</option><option value="9">Tchatch</option><option value="-1">&nbsp;</option><option value="-1">Consoles</option><option value="-1">----------------</option><option value="1">Gamecube</option><option value="2">PS2</option><option value="3">XBox</option><option value="5">Portables</option><option value="4">Autres...</option><option value="-1">&nbsp;</option><option value="-1">PC</option><option value="-1">----------------</option><option value="11">Jeux</option><option value="12">Hardware</option><option value="-1">&nbsp;</option><option value="-1">Nostalgie</option><option value="-1">----------------</option><option value="7">Général</option><option value="8">Emulation</option></select><input type="hidden" name="sid" value="c16d8826a3b3d6b5c42544bdaf67ec8d" />&nbsp;<input type="submit" value="Aller" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+<span class="gensmall">Vous <b>pouvez</b> poster de nouveaux sujets dans ce forum<br />Vous <b>pouvez</b> répondre aux sujets dans ce forum<br />Vous <b>ne pouvez pas</b> éditer vos messages dans ce forum<br />Vous <b>ne pouvez pas</b> supprimer vos messages dans ce forum<br />Vous <b>ne pouvez pas</b> voter dans les sondages de ce forum<br /></span></td>
+  </tr>
+</table>
+
+<div align="center"><span class="admin"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB 2.0.6 line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+		</td>
+	</tr>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td background="templates/smileblue/images/b_h1.gif" height="30" border="0">
+      <div align="center"><img src="templates/smileblue/images/copyright.gif" width="424" height="30" border="0" usemap="#Map3">
+      </div>
+    </td>
+  </tr>
+</table>
+<!--
+Si vous utilisez ce thème c'est que vous l'appréciez, je vous demande donc de laisser
+les informations ci dessous ni de les changer ni de les enlever. Merci
+// -->
+<map name="Map">
+  <area shape="rect" coords="94,83,119,96" href="faq.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+  <area shape="rect" coords="131,54,194,66" href="search.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+  <area shape="rect" coords="146,83,181,95" href="profile.php?mode=editprofile&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+  <area shape="rect" coords="25,54,103,67" href="profile.php?mode=register&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+  <area shape="rect" coords="222,54,316,67" href="memberlist.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+  <area shape="rect" coords="343,54,465,67" href="groupcp.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+  <area shape="rect" coords="209,84,297,97" href="privmsg.php?folder=inbox&amp;sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+  <area shape="rect" coords="325,82,467,95" href="login.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+</map>
+<map name="Map2">
+  <area shape="rect" coords="23,3,227,104" href="index.php?sid=c16d8826a3b3d6b5c42544bdaf67ec8d">
+</map>
+<map name="Map3">
+  <area shape="rect" coords="69,9,99,22" href="http://www.phpbb.com">
+  <area shape="rect" coords="350,9,419,21" href="http://www.wabisurf.net">
+</map>
+</body></html>
